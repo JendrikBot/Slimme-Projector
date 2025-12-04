@@ -1,4 +1,4 @@
-# Projecttitel
+# slimme lichtprojector
 *Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
 
 🛠️ Built by ``Naam 1`` & ``Naam 2``   
