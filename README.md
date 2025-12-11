@@ -1,7 +1,7 @@
 # slimme lichtprojector
 de slimme lichtprojector die kinderen ondersteunt bij het krijgen van een goede nachtrust.
 
-🛠️ Built by Felix Vanhoutte & Jendrik Bottelberghe`   
+🛠️ Built by Felix Vanhoutte & Jendrik Bottelberghe   
 🔥 Supervised by prof. dr. Bas Baccarne& Yannick Christiaens. 
 🌱 Grown at Ghent University 🏛️ Industrial Design Engineering ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
@@ -16,7 +16,7 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image, vb.
 <p align="center">
-  <img src="img/hero_example.png" width="100%">
+  <img src="c:\vred-snapshots\render_slimme_projector.png" width="100%">
 </p>
 
 ## Introductie
