@@ -15,8 +15,8 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Wat is jouw oplossing?
 - Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image, vb.
+![alt text](render_slimme_projector.png)
 <p align="center">
-  <img src="c:\vred-snapshots\render_slimme_projector.png" width="100%">
 </p>
 
 ## Introductie
