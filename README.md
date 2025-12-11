@@ -1,11 +1,11 @@
 # slimme lichtprojector
-*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+de slimme lichtprojector die kinderen ondersteunt bij het krijgen van een goede nachtrust.
 
-🛠️ Built by ``Naam 1`` & ``Naam 2``   
-🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
-🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
+🛠️ Built by Felix Vanhoutte & Jendrik Bottelberghe`   
+🔥 Supervised by prof. dr. Bas Baccarne& Yannick Christiaens. 
+🌱 Grown at Ghent University 🏛️ Industrial Design Engineering ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*Dag/Maand/Jaar van de laatste update*   
+4/12/2025 van de laatste update*   
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
