@@ -39,7 +39,7 @@ Licht toe op welke manier je AI gebruikte in dit project.
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=x)
+* Literatuuronderzoek (N=2)
   * [Protocol](url)
   * [Rapport](url)
 * Interviews (N=x)
@@ -47,10 +47,10 @@ Licht toe op welke manier je AI gebruikte in dit project.
   * [Rapport](url)
     
 ### Definition
-* User testing wave 1 (N=x)
+* User testing wave 1 (N=2)
   * [Protocol](url)
   * [Rapport](url)
-* User testing wave 2 (N=x)
+* User testing wave 2 (N=2)
   * [Protocol](url)
   * [Rapport](url)
 
