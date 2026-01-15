@@ -16,7 +16,12 @@ Hoe onderzocht je dit? Wees volledig.
 Leg uit en toon welke prototypes gemaakt werden en hoe deze helpen om de onderzoeksvragen te beantwoorden (benoemen wat je aftoetst & link naar design requirements).   
 Leg uit welke testen werden uitgevoerd.
 ### Resultaten
+Uit de gebruikservaring van de twee waves werd duidelijk dat het ophangsysteem in de tweede wave een upgrade was van de eerste versie. Dit was echter vooral omdat dit ontwerp veel veiliger was, en niet per se makkelijker op te zetten.
+"Da geeft niet dat dat daar hangt te bengelen."
+Ook kon het ontwerp niet in de weg staan. Er bleek echter wel noodzaak om de ophanging makkelijker te maken en eventueel zonder boren. Hoewel dit niet opwoog tegen veiigheid, waren er wel opmerkingen dat hier nog over nagedacht mocht worden. De UI van de software was goed. Alleen was er een idee van een gebruiker om een instelbare tijd toe te voegen. 
+"Da's wel gemakkelijk, die app."
 
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
+
 Definieer de belangrijkste designbeslissingen.
