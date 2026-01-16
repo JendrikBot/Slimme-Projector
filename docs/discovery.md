@@ -1,6 +1,5 @@
 ## Discovery
-Max. 1000 woorden.   
-[!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
+
 ### Doestellingen
 Het doel van deze discovery-fase was het in kaart brengen van de probleemruimte rond slaapregressie bij jonge kinderen tussen 1,5 en 2,5 jaar. De focus lag op het begrijpen van de emotionele, contextuele en praktische noden van ouders en kinderen, en het identificeren van ontwerpopportuniteiten voor een ondersteunend product dat nachtelijke onrust kan verminderen zonder de ouders voortdurend te belasten.
 Deelvragen
