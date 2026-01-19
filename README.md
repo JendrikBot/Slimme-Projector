@@ -43,9 +43,9 @@ AI werd in dit project gebruikt om duiding te geven bij opdrachten, het helpen o
 * Literatuuronderzoek 
   * [Protocol](./reports%20and%20protocols/Bottelberghe_Jendrik_Protocol%20literatuuronderzoek%20JB.pdf)
   * [Rapport](./reports%20and%20protocols/Bottelberghe_Jendrik_rapportering%20literatuuronderzoek%20JB.pdf)
-  Benchmarkonderzoek
-    [protocol](./reports%20and%20protocols/Benchmarkprotocol_slaapregressie%20Felix.pdf)
-    [rapport](./reports%20and%20protocols/Benchmark_uitvoering_slaapregressieFelix.pdf)
+* Benchmarkonderzoek
+  * [protocol](./reports%20and%20protocols/Benchmarkprotocol_slaapregressie%20Felix.pdf)
+  * [rapport](./reports%20and%20protocols/Benchmark_uitvoering_slaapregressieFelix.pdf)
 * Interviews (N=6)
   * [Protocol_Jendrik_1](./reports%20and%20protocols/Bottelberghe_Jendrik_Interview_protocol_PGGO_dokter%20JB.pdf)
   * [protocol_Jendrik_2](./reports%20and%20protocols/Bottelberghe_Jendrik_Interview_protocol_PGGO_ouders%20JB.pdf)
