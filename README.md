@@ -7,21 +7,7 @@
 
 *Dag/Maand/Jaar van de laatste update*   
 
-## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
-
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image, vb.
-<p align="center">
-  <img src="img/hero_example.png" width="100%">
-</p>
-
-## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
+ceer het probleem en jouw doelstellingen (inclusief boundary conditions).
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
 
 ## Inhoudstafel
