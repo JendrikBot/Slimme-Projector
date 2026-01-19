@@ -1,5 +1,5 @@
 ## Methodologie
-Het ontwerpproces van dit project volgde een iteratieve, gebruiksgerichte aanpak, gebaseerd op een aangepast [Double Diamond-model](../img/doubleDiamond-tijdlijn.png). Dit model structureert het proces in vier fasen: Discover, Define, Develop en Deliver. Doorheen alle fasen stond continue terugkoppeling via gebruikersonderzoek en testen centraal, met als doel het ontwerp af te stemmen op de noden van zowel kinderen als ouders.
+Het ontwerpproces van dit project volgde een iteratieve, gebruiksgerichte aanpak, gebaseerd op een aangepast [Double Diamond-model](../img/DoubleDiamond-tijdlijn.png). Dit model structureert het proces in vier fasen: Discover, Define, Develop en Deliver. Doorheen alle fasen stond continue terugkoppeling via gebruikersonderzoek en testen centraal, met als doel het ontwerp af te stemmen op de noden van zowel kinderen als ouders.
 
 De discoveryfase had als doel de probleemruimte rond slaapregressie bij jonge kinderen (1,5–2,5 jaar) in kaart te brengen. De focus lag op het begrijpen van emotionele, contextuele en praktische noden, en op het identificeren van ontwerpopportuniteiten voor een ondersteunend systeem dat nachtelijke onrust vermindert zonder voortdurende ouderlijke tussenkomst.
 
