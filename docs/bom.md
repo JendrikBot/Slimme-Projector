@@ -6,7 +6,7 @@
 -lijm
 -staal
 -kunststof
-- Maak voor componenten een overzicht met links naar aankooppagina en pricing
+
 componenten:
 -Mini-videoprojector: https://www.amazon.com.be/-/nl/dp/B0DPHMRS9V/?coliid=I28LJOFFIOSBZP&colid=2ZH36OK61XX30&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it
 -raspberry pi zero W: https://www.kiwi-electronics.com/nl/raspberry-pi-zero-wh-header-voorgesoldeerd-3328?search=Raspberry%20Pi%20Zero%20W
