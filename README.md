@@ -1,20 +1,34 @@
-# Projecttitel
-*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+# slimme lichtprojector
+de slimme lichtprojector die kinderen ondersteunt bij het krijgen van een goede nachtrust.
 
-🛠️ Built by ``Naam 1`` & ``Naam 2``   
-🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
-🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
+🛠️ Built by Felix Vanhoutte & Jendrik Bottelberghe   
+🔥 Supervised by prof. dr. Bas Baccarne& Yannick Christiaens. 
+🌱 Grown at Ghent University 🏛️ Industrial Design Engineering ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*Dag/Maand/Jaar van de laatste update*   
+11/12/2025 van de laatste update*   
 
-ceer het probleem en jouw doelstellingen (inclusief boundary conditions).
+## Samenvatting
+Slaapregressie bij jonge kinderen tussen 1,5 en 2,5 jaar vormt een terugkerend probleem voor gezinnen. Kinderen worden ’s nachts herhaaldelijk wakker en zoeken nabijheid en emotionele geruststelling, terwijl ouders te maken krijgen met slaaptekort, onzekerheid en een verhoogde mentale belasting. Bestaande oplossingen sluiten onvoldoende aan bij deze leeftijdsfase en vereisen vaak actieve ouderlijke tussenkomst of zorgen voor extra prikkels.
+
+Het probleem werd onderzocht via gebruikersonderzoek en benchmarkanalyse. Er werden drie semigestructureerde interviews afgenomen met ouders en een grootouder die ervaring hebben met slaapregressie. De interviews focusten op nachtelijke patronen, emotionele impact en het gebruik van bestaande hulpmiddelen en werden geanalyseerd via thematische analyse. Daarnaast werd een benchmark uitgevoerd van tien bestaande producten en diensten rond slaapondersteuning bij jonge kinderen.
+
+Op basis van deze inzichten werd een warm, slaapondersteunend systeem voorgesteld dat inspeelt op emotionele regulatie in plaats van gedragssturing. De oplossing maakt gebruik van subtiele zintuiglijke signalen zoals zacht licht, geluid en ritme, zonder schermen of actieve interactie.
+
+Door automatisch en passief te werken, biedt het systeem het kind een gevoel van nabijheid en veiligheid, terwijl de nood aan nachtelijke ouderlijke tussenkomst vermindert. Zo creëert de oplossing rust voor zowel kind als ouder.
+
+![render](./img/render_slimme_projector.png)
+<p align="center">
+</p>
+
+## Introductie
+De slimme lichtprojector biedt hulp aan kinderen met slaapproblematiek. Het probleem dat ouders midden in de nacht wakker gemaakt worden door hun kinderen dient opgelost te worden met behulp van ons project. De slimme lichtprojector merkt op dat het kind ontwaakt en schiet meteen in actie. De projector schijnt rustgevende, ritmische beelden of strobes en maakt witte ruis om het kind rustiger te maken. De instellingen van de projector kunnen door de ouders ingesteld worden met behulp van een app. Zo kan het product op elk kind afgesteld worden. Het is de bedoeling dat de projector zo gemakkelijk mogelijk te installeren is, zonder veel kabels te moeten verbinden of gaten te moeten boren in het plafond. 
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
 
 ## Inhoudstafel
 
 1. [Methodologie](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
-3. [Defintion](./docs/definition.md)
+3. [Definition](./docs/definition.md)
 4. [Design Requirements](./docs/design_requirements.md)
 5. [Bill of materials](./docs/bom.md)
 
@@ -22,27 +36,27 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 Max. 500 woorden
 
 ## Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
+AI werd in dit project gebruikt om duiding te geven bij opdrachten, het helpen opstellen van de protocols met eigen bijsturing, en het herschrijven en grammatisch corrigeren van bepaalde stukken tekst. Artificiële intilligentie werd niet gebruikt als bron, echter biedde het wel hulp bij het uitleggen en sturen van onderzoek.
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-* Interviews (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-    
+* Literatuuronderzoek (N=)
+  * [Protocol](./reports%20and%20protocols/Bottelberghe_Jendrik_Protocol%20literatuuronderzoek%20JB.pdf)
+  * [Rapport](./reports%20and%20protocols/Bottelberghe_Jendrik_rapportering%20literatuuronderzoek%20JB.pdf)
+* Interviews (N=6)
+  * [Protocol_1](./reports%20and%20protocols/Bottelberghe_Jendrik_Interview_protocol_PGGO_dokter%20JB.pdf)
+  * [protocol_2](./reports%20and%20protocols/Bottelberghe_Jendrik_Interview_protocol_PGGO_ouders%20JB.pdf)
+  * [Rapport](./reports%20and%20protocols/Bottelberghe_Jendrik_Rapportering%20interviews%20JB.pdf)
 ### Definition
-* User testing wave 1 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-* User testing wave 2 (N=x)
+* User testing wave 1 (N=8)
+  * [Protocol](./reports%20and%20protocols/Bottelberghe_Jendrik_onderzoeksprotocol%20ophangsysteem.pdf)
+  * [Rapport](./reports%20and%20protocols/Bottelberghe_Jendrik_rapportering%20TAP.pdf)
+* User testing wave 2 (N=8)
   * [Protocol](url)
   * [Rapport](url)
 
 ## Licentie
-> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
+>
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
