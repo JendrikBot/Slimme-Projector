@@ -11,7 +11,8 @@ De testen werden uitgevoer door ouders, aangezien zij het meest in contact zulle
 ### Materiaal & methoden
 
 Beide onderzoeken werden apart uitgevoerd.
-Het eerste onderzoek maakte gebruik van een bureaulamp-armatuur, verbonden aan een 3D-geprinte vlinder dat de projector voorstelt. Deze werden verbonden met een touwtje. Ook was er een figma template, gegenereerd door Ai, die zich voordeed als de software van de lichtprojector.[figma](https://www.figma.com/make/z6YTW5lYvv8C9mwTjm8RgK/Bluetooth-Projector-Control-Interface?t=xq9Ykq11bSMpZqXp-1).
+Het eerste onderzoek maakte gebruik van een bureaulamp-armatuur, verbonden aan een 3D-geprinte vlinder dat de projector voorstelt. Deze werden verbonden met een touwtje. Ook was er een figma template, gegenereerd door Ai, die zich voordeed als de software van de lichtprojector.
+[figma](https://www.figma.com/make/z6YTW5lYvv8C9mwTjm8RgK/Bluetooth-Projector-Control-Interface?t=xq9Ykq11bSMpZqXp-1).
 De eerste test volgde dit [protocol](../reports%20and%20protocols/Bottelberghe_Jendrik_onderzoeksprotocol%20ophangsysteem.pdf). Hier was de bedoeling dat de gebruiker enkele testjes volgde met het ontwerp en luidop vertelde wat ze aan het doen waren. Zo kon onderzocht worden als het ontwerp intuïtief genoeg was, en wat de gebruiker denkt van het design.
 ![eerste ontwerp](../img/wave1-setup.JPEG)
 De resultaten van het eerste ontwerp maakten duidelijk dat er aanpassingen nodig waren. De feedback van de figma template was verrassend goed, hier werden ook geen verdere aanpassingen aan gedaan. Bij de tweede iteratie werd het ophangsysteem vereenvoudigd. De projector werd opgehangen boven het bed. Dit gebeurde met touwtjes die de projector vanaf het plafond naar beneden liet hangen.
