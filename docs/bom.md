@@ -1,5 +1,5 @@
 ## Bill of materials
-Kan je dit zien
+Kan je dit zien? 
 - Welk materiaal heb je nodig voor de laatste versie van je prototype?
 -PLA
 -aluminium
