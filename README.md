@@ -40,20 +40,25 @@ AI werd in dit project gebruikt om duiding te geven bij opdrachten, het helpen o
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=)
+* Literatuuronderzoek 
   * [Protocol](./reports%20and%20protocols/Bottelberghe_Jendrik_Protocol%20literatuuronderzoek%20JB.pdf)
   * [Rapport](./reports%20and%20protocols/Bottelberghe_Jendrik_rapportering%20literatuuronderzoek%20JB.pdf)
+  Benchmarkonderzoek
+    [protocol](./reports%20and%20protocols/Benchmarkprotocol_slaapregressie%20Felix.pdf)
+    [rapport](./reports%20and%20protocols/Benchmark_uitvoering_slaapregressieFelix.pdf)
 * Interviews (N=6)
-  * [Protocol_1](./reports%20and%20protocols/Bottelberghe_Jendrik_Interview_protocol_PGGO_dokter%20JB.pdf)
-  * [protocol_2](./reports%20and%20protocols/Bottelberghe_Jendrik_Interview_protocol_PGGO_ouders%20JB.pdf)
-  * [Rapport](./reports%20and%20protocols/Bottelberghe_Jendrik_Rapportering%20interviews%20JB.pdf)
+  * [Protocol_Jendrik_1](./reports%20and%20protocols/Bottelberghe_Jendrik_Interview_protocol_PGGO_dokter%20JB.pdf)
+  * [protocol_Jendrik_2](./reports%20and%20protocols/Bottelberghe_Jendrik_Interview_protocol_PGGO_ouders%20JB.pdf)
+  * [protocol_Felix](./reports%20and%20protocols/Interview%20-%20protocol%20Felix.pdf)
+  * [Rapport_Jendrik](./reports%20and%20protocols/Bottelberghe_Jendrik_Rapportering%20interviews%20JB.pdf)
+  * [rapport_Felix](./reports%20and%20protocols/Interview%20report%20Felix.pdf)
 ### Definition
 * User testing wave 1 (N=8)
-  * [Protocol](./reports%20and%20protocols/Bottelberghe_Jendrik_onderzoeksprotocol%20ophangsysteem.pdf)
-  * [Rapport](./reports%20and%20protocols/Bottelberghe_Jendrik_rapportering%20TAP.pdf)
+  * [Protocol_Jendrik](./reports%20and%20protocols/Bottelberghe_Jendrik_onderzoeksprotocol%20ophangsysteem.pdf)
+  * [Rapport_Jendrik](./reports%20and%20protocols/Bottelberghe_Jendrik_rapportering%20TAP.pdf)
 * User testing wave 2 (N=8)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Protocol_Felix](./reports%20and%20protocols/Onderzoeksprotocol%20spreekfunctie,%20energievoorziening%20(QAP).pdf)
+  * [Rapport_Felix](url)
 
 ## Licentie
 >
