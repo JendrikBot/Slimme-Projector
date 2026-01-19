@@ -10,9 +10,13 @@ Hoe kunnen we een warme, niet-invasieve technologie ontwerpen die jonge kinderen
 
 In de definitionfase werd de probleemstelling vertaald naar concrete ontwerpkeuzes. De belangrijkste doelstellingen waren veiligheid, eenvoud, intuïtief gebruik en het bevorderen van rust. Twee iteratieve testwaves werden uitgevoerd met ouders als gebruikers.
 
-In wave 1 werd een exploratief prototype getest via een think-aloud-methode, bestaande uit een eenvoudig ophangsysteem en een Figma-interface die de software simuleerde. De test evalueerde intuïtiviteit, veiligheid en eerste indrukken. Op basis van de feedback werd het ontwerp aangepast.
+In wave 1 onderzoek 1 werd een exploratief prototype getest via een think-aloud-methode, bestaande uit een eenvoudig ophangsysteem en een Figma-interface die de software simuleerde. De test evalueerde intuïtiviteit, veiligheid en eerste indrukken. Op basis van de feedback werd het ontwerp aangepast.
 
-In wave 2 werd een vereenvoudigd ophangsysteem getest waarbij de projector boven het bed werd bevestigd. Dit ontwerp werd als veiliger en duidelijker ervaren. De software-interface werd positief beoordeeld, met als enige optimalisatievoorstel het toevoegen van een instelbare timer.
+In wave 2 van onderzoek 2 werd een vereenvoudigd ophangsysteem getest waarbij de projector boven het bed werd bevestigd. Dit ontwerp werd als veiliger en duidelijker ervaren. De software-interface werd positief beoordeeld, met als enige optimalisatievoorstel het toevoegen van een instelbare timer.
+
+In wave 1 onderzoek 2 werd een exploratief prototype getest via een think-aloud-methode + Question ask protocol bestaande uit een projector prototype met ingeboude box en oplaadbaare batterij als energievoorziening + een Figma-interface die de software simuleerde. De test evalueerde intuïtiviteit, veiligheid en eerste indrukken.
+
+In wave 2 van onnderzoek 2 werd exact het zelfde getest alleen werd gebruik gemaakt van een vaste kabel voor stroomvoorziening.
 
 Deze fase resulteerde in duidelijke ontwerpvereisten en een solide basis voor verdere ontwikkeling.
 

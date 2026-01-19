@@ -58,7 +58,7 @@ AI werd in dit project gebruikt om duiding te geven bij opdrachten, het helpen o
   * [Rapport_Jendrik](./reports%20and%20protocols/Bottelberghe_Jendrik_rapportering%20TAP.pdf)
 * User testing wave 2 (N=4)
   * [Protocol_Felix](./reports%20and%20protocols/Onderzoeksprotocol%20spreekfunctie,%20energievoorziening%20(QAP).pdf)
-  * [Rapport_Felix](url)
+  * [Rapport_Felix](./reports%20and%20protocols/FelixVanhoutteRapporteringQAP.pdf)
 
 ## Licentie
 >

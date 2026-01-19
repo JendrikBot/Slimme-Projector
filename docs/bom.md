@@ -23,4 +23,14 @@ componenten:
 | Mini HDMI-kabel         | 3,99                    |
 | **Totaal (richtprijs)** | **~€89–€90**            |
 
-- Wat hebben anderen nodig om dit te maken (zie vb. instructables)?
+Om dit prototype te bouwen, heeft een maker nodig:
+
+Basismaterialen (PLA, aluminium, staal, kunststof, lijm)
+
+Elektronische componenten (projector, Raspberry Pi, kabels, voeding)
+
+Gereedschap (3D-printer, boormachine, soldeerbout, handgereedschap)
+
+Softwarebestanden (STL-files, Pi-OS, UI-mockups)
+
+Basisvaardigheden (3D-printen, elektronica, montage
