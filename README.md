@@ -16,7 +16,7 @@ Op basis van deze inzichten werd een warm, slaapondersteunend systeem voorgestel
 
 Door automatisch en passief te werken, biedt het systeem het kind een gevoel van nabijheid en veiligheid, terwijl de nood aan nachtelijke ouderlijke tussenkomst vermindert. Zo creëert de oplossing rust voor zowel kind als ouder.
 
-![alt text](render_slimme_projector.png)
+![render](./img/render_slimme_projector.png)
 <p align="center">
 </p>
 

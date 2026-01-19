@@ -48,8 +48,7 @@ De oplossingen werden geëvalueerd aan de hand van vaste criteria:
 · App- en schermafhankelijkheid
 
 · Autonomie van het kind
-Hoe onderzocht je dit? Wees volledig.    
-Leg uit welke onderzoeksmethoden werden uitgevoerd en hoe dit werd aangepakt (link door naar het protocol).
+
 ### Resultaten
 Thema 1 : Slaapregressie als terugkerend patroon
 
