@@ -16,13 +16,13 @@ Op basis van deze inzichten werd een warm, slaapondersteunend systeem voorgestel
 
 Door automatisch en passief te werken, biedt het systeem het kind een gevoel van nabijheid en veiligheid, terwijl de nood aan nachtelijke ouderlijke tussenkomst vermindert. Zo creëert de oplossing rust voor zowel kind als ouder.
 
-![render](./img/render_slimme_projector.png)
+![render](./img/Bottelberghe_Jendrik_render_Slimme-Projector.png)
 <p align="center">
 </p>
 
 ## Introductie
 De slimme lichtprojector biedt hulp aan kinderen met slaapproblematiek. Het probleem dat ouders midden in de nacht wakker gemaakt worden door hun kinderen dient opgelost te worden met behulp van ons project. De slimme lichtprojector merkt op dat het kind ontwaakt en schiet meteen in actie. De projector schijnt rustgevende, ritmische beelden of strobes en maakt witte ruis om het kind rustiger te maken. De instellingen van de projector kunnen door de ouders ingesteld worden met behulp van een app. Zo kan het product op elk kind afgesteld worden. Het is de bedoeling dat de projector zo gemakkelijk mogelijk te installeren is, zonder veel kabels te moeten verbinden of gaten te moeten boren in het plafond. 
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
+
 
 ## Inhoudstafel
 

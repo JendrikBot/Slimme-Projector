@@ -132,3 +132,25 @@ Er ligt een duidelijke opportuniteit voor een warm, phygital slaapondersteunend 
 How Might We
 
 Hoe kunnen we een warme, niet-invasieve technologie ontwerpen die jonge kinderen tijdens slaapregressie geruststelt en tegelijk de nachtelijke belasting voor ouders vermindert?
+
+* 1 Minimale cognitieve en zintuiglijke belasting:
+
+Het systeem mag geen schermen, felle kleuren, harde geluiden of complexe interacties bevatten.
+Alle output moet zacht, traag en subtiel zijn (bijv. gedimd licht, rustige stem, repetitieve ritmes).
+De interface voor ouders moet eenvoudig, intuïtief en laagdrempelig zijn, met een beperkt aantal instellingen en duidelijke feedback.
+
+Afgeleid uit:
+– Overprikkeling vermijden
+– Eenvoud en voorspelbaarheid zijn cruciaal
+– Beperkingen van bestaande apps en slaaptrainers
+
+* 2 Automatische en passieve activatie tijdens de nacht:
+
+Het systeem moet autonoom kunnen functioneren zonder actieve tussenkomst van ouders tijdens de nacht.
+Activatie moet automatisch gebeuren op basis van vooraf ingestelde parameters (tijd, patroon, of nachtmodus), zodat het kind gerustgesteld wordt zonder dat ouders wakker moeten worden of moeten ingrijpen.
+Het gebruik moet voorspelbaar zijn, zodat zowel ouder als kind weten wat er gebeurt.
+
+Afgeleid uit:
+– Nachtelijke autonomie
+– Ouders willen niet telkens ingrijpen
+– Nood aan voorspelbaarheid en controle
