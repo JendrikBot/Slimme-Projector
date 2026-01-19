@@ -1,7 +1,6 @@
 ## Definition
 
-Max. 1000 woorden.
-[!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
+
 
 ### Doestellingen
 
@@ -13,15 +12,17 @@ De testen werden uitgevoer door ouders, aangezien zij het meest in contact zulle
 
 Beide onderzoeken werden apart uitgevoerd.
 Het eerste onderzoek maakte gebruik van een bureaulamp-armatuur, verbonden aan een 3D-geprinte vlinder dat de projector voorstelt. Deze werden verbonden met een touwtje. Ook was er een figma template, gegenereerd door Ai, die zich voordeed als de software van de lichtprojector. Dee eerste test volgde dit [protocol](../reports%20and%20protocols/Bottelberghe_Jendrik_onderzoeksprotocol%20ophangsysteem.pdf). Hier was de bedoeling dat de gebruiker enkele testjes volgde met het ontwerp en luidop vertelde wat ze aan het doen waren. Zo kon onderzocht worden als het ontwerp intuïtief genoeg was, en wat de gebruiker denkt van het design.
-![eerste ontwerp](../img/wave1-setup.jpeg)
+![eerste ontwerp](../img/wave1-setup.JPEG)
 De resultaten van het eerste ontwerp maakten duidelijk dat er aanpassingen nodig waren. De feedback van de figma template was verrassend goed, hier werden ook geen verdere aanpassingen aan gedaan. Bij de tweede iteratie werd het ophangsysteem vereenvoudigd. De projector werd opgehangen boven het bed. Dit gebeurde met touwtjes die de projector vanaf het plafond naar beneden liet hangen.
-![tweede ontwerp](../img/wave2-setup.jpeg)
+![tweede ontwerp](../img/wave2-setup.JPEG)
 De gebruikers hadden meteen door hoe ze dit konden bevestigen. Het enige nadeel bij dit systeem was dat voor een hi-fi prototype er aanpassingen zullen moeten gebeuren aan het plafond (gaten boren / vijzen). Wanneer dit aan de gebruikers werd voorgelegd was dit een minder groot probleem dan gedacht. Aangezien deze manier een pak veiliger was dan dat in wave 1, was dit een goede verbetering.  
 
 Het tweede onderzoek maakte gebruik van een low-fidelity fysiek prototype dat de projector voorstelde, met een ingebouwde speaker om de spreekfunctie te simuleren. Het prototype werd boven het kinderbed opgehangen om de gebruikscontext zo realistisch mogelijk te maken. Daarnaast werd een Figma-template, ontwikkeld om de bijhorende app na te bootsen waarmee ouders een boodschap konden inspreken en activeren.
 De test werd uitgevoerd als een taak-gebaseerde gebruikstest met QAP volgens dit [protocol](../reports%20and%20protocols/Onderzoeksprotocol%20spreekfunctie,%20energievoorziening%20(QAP).pdf). Deelnemers gebruikten het systeem in verschillende scenario’s en verwoordden luidop wat ze deden en verwachtten. Zo werd onderzocht of de spreekfunctie intuïtief werd begrepen en hoeveel mentale belasting het gebruik van de app vroeg, gekoppeld aan de design requirements rond eenvoud, controle en lage cognitieve last.
-![eerste iteratie](../img/PXL_20260118_170314483.jpg) werkte het prototype op een oplaadbare batterij. in een  
-![tweede iteratie](../img/PXL_20260118_170544969.jpg) werd hetzelfde prototype getest met een vaste elektriciteitskabel.
+ werkte het prototype op een oplaadbare batterij.
+![eerste iteratie](../img/PXL_20260118_170314483.jpg)
+in een tweede iteratie werd hetzelfde prototype getest met een vaste elektriciteitskabel.
+![tweede iteratie](../img/PXL_20260118_170544969.jpg)
 
 
 
