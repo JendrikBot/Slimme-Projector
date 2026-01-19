@@ -53,10 +53,10 @@ AI werd in dit project gebruikt om duiding te geven bij opdrachten, het helpen o
   * [Rapport_Jendrik](./reports%20and%20protocols/Bottelberghe_Jendrik_Rapportering%20interviews%20JB.pdf)
   * [rapport_Felix](./reports%20and%20protocols/Interview%20report%20Felix.pdf)
 ### Definition
-* User testing wave 1 (N=8)
+* User testing wave 1 (N=4)
   * [Protocol_Jendrik](./reports%20and%20protocols/Bottelberghe_Jendrik_onderzoeksprotocol%20ophangsysteem.pdf)
   * [Rapport_Jendrik](./reports%20and%20protocols/Bottelberghe_Jendrik_rapportering%20TAP.pdf)
-* User testing wave 2 (N=8)
+* User testing wave 2 (N=4)
   * [Protocol_Felix](./reports%20and%20protocols/Onderzoeksprotocol%20spreekfunctie,%20energievoorziening%20(QAP).pdf)
   * [Rapport_Felix](url)
 
