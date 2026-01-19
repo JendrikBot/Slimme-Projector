@@ -5,7 +5,7 @@ de slimme lichtprojector die kinderen ondersteunt bij het krijgen van een goede 
 🔥 Supervised by prof. dr. Bas Baccarne& Yannick Christiaens. 
 🌱 Grown at Ghent University 🏛️ Industrial Design Engineering ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-11/12/2025 van de laatste update*   
+19/01/2026 van de laatste update*   
 
 ## Samenvatting
 Slaapregressie bij jonge kinderen tussen 1,5 en 2,5 jaar vormt een terugkerend probleem voor gezinnen. Kinderen worden ’s nachts herhaaldelijk wakker en zoeken nabijheid en emotionele geruststelling, terwijl ouders te maken krijgen met slaaptekort, onzekerheid en een verhoogde mentale belasting. Bestaande oplossingen sluiten onvoldoende aan bij deze leeftijdsfase en vereisen vaak actieve ouderlijke tussenkomst of zorgen voor extra prikkels.
