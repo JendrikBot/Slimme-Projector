@@ -13,6 +13,7 @@ componenten:
 * [raspberry_pi_zero_W](https://www.kiwi-electronics.com/nl/raspberry-pi-zero-wh-header-voorgesoldeerd-3328?search=Raspberry%20Pi%20Zero%20W)
 * [Voeding](https://www.kiwi-electronics.com/nl/raspberry-pi--psu-5-1v-2-5a-microusb-eu-plug-10809)
 * [mini_HDMI_kabel](https://www.kiwi-electronics.com/nl/mini-hdmi-kabel-mini-naar-standaard-1-meter-2996)
+
 | **Onderdeel**           | **Geschatte prijs (€)** |
 | ----------------------- | ----------------------- |
 | Mini-videoprojector     | ~54,99                  |
