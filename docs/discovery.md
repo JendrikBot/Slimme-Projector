@@ -151,6 +151,6 @@ Activatie moet automatisch gebeuren op basis van vooraf ingestelde parameters (t
 Het gebruik moet voorspelbaar zijn, zodat zowel ouder als kind weten wat er gebeurt.
 
 Afgeleid uit:
-– Nachtelijke autonomie
-– Ouders willen niet telkens ingrijpen
-– Nood aan voorspelbaarheid en controle
+  – Nachtelijke autonomie
+  – Ouders willen niet telkens ingrijpen
+  – Nood aan voorspelbaarheid en controle
