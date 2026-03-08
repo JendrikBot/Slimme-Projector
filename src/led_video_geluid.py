@@ -9,7 +9,7 @@ import signal
 GPIO_SOUND = 17
 GPIO_LED = 27
 
-VIDEO = "/home/wokkel/kalmeer_video.mp4"
+VIDEO = "/home/wokkel/kalmeer_video_2.mp4"
 LOCK_TIME = 60  # 1 minuut projectie + lockout
 
 # LM393 is meestal active-low → pull_up=True
