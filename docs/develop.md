@@ -179,5 +179,18 @@ Als minimal viabel productfuncties besluiten we op basis hiervan dat:
 
 ## Divergentie & Ontwerpkeuzes
 
+* Morfologische Matrix:
+## Morfologische Matrix – Slaapprojector systeem
+
+| Functie / Probleem          | Oplossing 1            | Oplossing 2                 | Oplossing 3                         | Oplossing 4                         |
+|-----------------------------|------------------------|-----------------------------|-------------------------------------|-------------------------------------|
+| Detectie van huilen / wakker zijn | Microfoon              | Bewegingssensor             | Combinatie geluid + beweging        |                                     |
+| Activatie systeem           | Automatisch bij huilen | Bij beweging van het kind   | Handmatig via app                   | Constant aan                        |
+| Visuele geruststelling      | Sterrenprojectie       | Dierenanimaties             | Rustgevende kleuren                 | Bewegende wolken                    |
+| Auditieve geruststelling    | Rustgevende deuntjes   | White noise                 | Hartslaggeluid                      | Natuurgeluiden                      |
+| Intensiteit aanpassen       | Vast niveau            | Automatisch aanpassen       | Manueel instellen via de app        | Adaptief op basis van huilvolume    |
+| Stoppen van projectie       | Timer                  | Wanneer huilen stopt        | Ouder via app                       | Geleidelijke dimmen                 |
+| Feedback naar ouders        | Geen feedback          | Meldingen via app           | Geluidsmelding                      | Slaaprapport                        |
+
 
 ## Build & Test
