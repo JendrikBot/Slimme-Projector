@@ -20,10 +20,6 @@ Ook kon het ontwerp niet in de weg staan. Er bleek echter wel noodzaak om de oph
 "Da's wel gemakkelijk, die app."
 
 
-### Conclusies & implicaties
-
-
-
 
 ### Doestellingen
 

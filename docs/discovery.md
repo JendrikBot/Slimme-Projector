@@ -14,8 +14,8 @@ Deelvragen
 
 · Welke ontwerpprincipes zijn essentieel voor een effectieve en warme slaapondersteuning?
 ### Materiaal & methoden
-Gebruikersonderzoek 
-Interviews
+* Gebruikersonderzoek 
+* Interviews
 
 Er werden drie semigestructureerde interviews afgenomen met ouders en een grootouder die ervaring hebben met slaapregressie bij jonge kinderen (N=3). De respondenten werden doelgericht geselecteerd om variatie in gezinssituatie en ervaring te bekomen. De interviews duurden gemiddeld 45 minuten en werden opgenomen met toestemming van de respondenten.
 
@@ -131,13 +131,13 @@ Ontwerpopportuniteit:
 
 Er ligt een duidelijke opportuniteit voor een warm, phygital slaapondersteunend systeem dat subtiele zintuiglijke signalen inzet (licht, geluid, ritme) om nabijheid te simuleren en emotionele onrust te dempen, zonder de ouders actief te betrekken of het kind te overprikkelen.
 
-How Might We
+* How Might We
 
 Hoe kunnen we een warme, niet-invasieve technologie ontwerpen die jonge kinderen tijdens slaapregressie geruststelt en tegelijk de nachtelijke belasting voor ouders vermindert?
 
 
 
-* 1 Minimale cognitieve en zintuiglijke belasting:
+* 1) Minimale cognitieve en zintuiglijke belasting:
 
 Het systeem mag geen schermen, felle kleuren, harde geluiden of complexe interacties bevatten.
 Alle output moet zacht, traag en subtiel zijn (bijv. gedimd licht, rustige stem, repetitieve ritmes).
@@ -148,7 +148,7 @@ Afgeleid uit:
 – Eenvoud en voorspelbaarheid zijn cruciaal
 – Beperkingen van bestaande apps en slaaptrainers
 
-* 2 Automatische en passieve activatie tijdens de nacht:
+* 2) Automatische en passieve activatie tijdens de nacht:
 
 Het systeem moet autonoom kunnen functioneren zonder actieve tussenkomst van ouders tijdens de nacht.
 Activatie moet automatisch gebeuren op basis van vooraf ingestelde parameters (tijd, patroon, of nachtmodus), zodat het kind gerustgesteld wordt zonder dat ouders wakker moeten worden of moeten ingrijpen.
