@@ -130,7 +130,7 @@ Voor het bepalen van de informatiearchitectuur werd een open card sorting method
 
 
 
-## 4. Diagram – Informatiearchitectuur (boomstructuur)
+ **Diagram / Informatiearchitectuur (boomstructuur)** 
 
 ```
 Slaapprojector Systeem
@@ -180,7 +180,7 @@ Als minimal viabel productfuncties besluiten we op basis hiervan dat:
 ## Divergentie & Ontwerpkeuzes
 
 * Morfologische Matrix:
-## Morfologische Matrix – Slaapprojector systeem
+
 
 | Functie / Probleem          | Oplossing 1            | Oplossing 2                 | Oplossing 3                         | Oplossing 4                         |
 |-----------------------------|------------------------|-----------------------------|-------------------------------------|-------------------------------------|
