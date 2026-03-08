@@ -193,4 +193,10 @@ Als minimal viabel productfuncties besluiten we op basis hiervan dat:
 | Feedback naar ouders        | Geen feedback          | Meldingen via app           | Geluidsmelding                      | Slaaprapport                        |
 
 
+* Toelichting:
+
+Om verschillende oplossingsmogelijkheden te verkennen werd een morfologische matrix opgesteld. Deze methode helpt om voor elke functionele uitdaging meerdere mogelijke oplossingen te genereren en te combineren. Hierdoor kan men systematisch verschillende ontwerpvarianten onderzoeken.
+
+Voor het slaapprojectorconcept werden onder andere oplossingen onderzocht voor de detectie van huilen, de activatie van het systeem, visuele en auditieve geruststelling en het automatisch stoppen van het systeem. Door verschillende oplossingen uit de matrix te combineren kunnen meerdere conceptvarianten worden ontwikkeld.
+
 ## Build & Test
