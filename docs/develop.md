@@ -128,7 +128,7 @@ Voor het bepalen van de informatiearchitectuur werd een open card sorting method
 
 
 
-4. Diagram – Informatiearchitectuur (boomstructuur)
+
 
 ## 4. Diagram – Informatiearchitectuur (boomstructuur)
 
