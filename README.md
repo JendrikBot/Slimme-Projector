@@ -37,7 +37,7 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 1. [Methodologie](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
 3. [Definition](./docs/definition.md)
-4. [Develop](./docs\develop)
+4. [Develop](./docs/develop.md)
 5. [Design Requirements](./docs/design_requirements.md)
 6. [Bill of materials](./docs/bom.md)
 
