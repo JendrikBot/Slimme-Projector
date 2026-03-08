@@ -4,7 +4,41 @@
 ## Develop 1:
 
 ## Analyse en Prioritering
+1. Onderzoeksvragen + hypotheses
 
+1.1. Effectiviteit van het systeem
+
+· Hoe effectief is het systeem in het detecteren en reageren op geluid?
+
+· Het systeem reageert correct op relevante geluiden en vermindert het probleem waarvoor het ontworpen is.
+
+
+1.2. Detectiedrempel (Decibel)
+
+· Vanaf welk geluidsniveau moet het systeem reageren om vals alarm te vermijden?
+
+· Een drempel boven het gemiddelde achtergrondgeluid zorgt ervoor dat het systeem enkel reageert op relevante geluiden.
+
+
+1.3. Integratie van een speaker
+
+· Verhoogt een geïntegreerde speaker de effectiviteit van het systeem?
+
+· Een speaker zorgt voor een extra afschrikmiddel waardoor het systeem effectiever wordt.
+
+
+1.4. Installatie / ophangen
+
+· Is het haalbaar en praktisch om het systeem op te hangen?
+
+· We vermoeden dat het systeem beter zal werken als het op een nachtkastje zal staan of op de grond. + het is makkelijker te instaleren.
+
+
+1.5. Reactiesnelheid van het systeem
+
+· Hoe snel moet het systeem reageren nadat een relevant geluid is gedetecteerd?
+
+· Het systeem moet binnen enkele seconden reageren na detectie van een relevant geluid om effectief te zijn en de gewenste reactie uit te lokken
 
 
 ## Deconstructie
@@ -18,6 +52,114 @@ Om een duidelijker beeld te krijgen in de visie van de werking van het systeem w
 Om vroegtijdig een beeld te krijgen van naarmate de technische ideeën mogelijk waren, werd een raspberry pi zero 2 W aangekocht samen met een draagbare projector. Toen de verbinding met behulp van code slaagde, was het duidelijk dat er op deze manier verder gebouwd kon worden. De verschillende sensoren, actuatoren en datastromen  zijn in een [productarchitectuur](/img/productarchitectuur_develop_1.png) in kaart gebracht.
 
 **User flows & Informatiearchitectuur**
+
+* User flow 
+Deze [user flow](/img/userflow_develop_1.jpg) is gebaseerd op de Hierarchical Task Analysis (HTA) met als hoofddoel “0. Het kind terug in slaap krijgen”. Wanneer het kind begint te huilen, detecteert de microfoon van het systeem het geluid en analyseert het of het effectief om huilen gaat. Indien dit het geval is, activeert het systeem automatisch de projector.
+
+De projector projecteert rustgevende beelden op het plafond en kan tegelijk zachte, rustgevende deuntjes afspelen om het kind te kalmeren. Zodra het huilen stopt en het kind opnieuw rustig wordt, detecteert het systeem dit en dimt de projector geleidelijk. Daarna keert het systeem terug naar de monitoringmodus.
+
+Deze flow toont hoe het systeem automatisch reageert op huilen en het kind helpt om opnieuw in slaap te vallen zonder tussenkomst van de ouders.
+
+
+* Informatiearchitectuur
+
+1. Information Ecology
+
+Gebruikers:
+· Ouders van kinderen die slaapregressie ervaren
+
+· Vermoeide ouders die een snelle en eenvoudige interactie nodig hebben
+
+· Het kind dat indirect met het systeem interacteert
+
+Inhoud:
+· Detectie van huilen
+
+· Gevoeligheid van de microfoon
+
+· Projector aan/uit
+
+· Type projectie
+
+· Animatie
+
+· Rustgevende muziek
+
+· Volume
+
+· Timer
+
+· Automatische activatie
+
+· Slaapstatus van het kind
+
+· Meldingen naar ouders
+
+· Instellingen
+
+Context:
+· Gebruik tijdens de nacht
+
+· Ouders hebben weinig aandacht of energie om met het systeem te interageren
+
+· Minimale interactie is gewenst
+
+· Het product reageert automatisch wanneer het kind huilt
+
+2. Card Sorting Methode
+
+Voor het bepalen van de informatiearchitectuur werd een open card sorting methode gebruikt. Deelnemers kregen kaarten met verschillende functies van het systeem en werden gevraagd deze in logische groepen te verdelen. Daarna gaven zij elke groep een naam. Deze methode helpt om de mentale modellen van gebruikers te begrijpen.
+
+3. Analyse van de Card Sorting
+|Informatie-item |Detectie |Projector |Geluid|Automatisch systeem|Instellingen|
+|Microfoon detecteert huilen| ✓	|   |   |  |   |			
+Huilanalyse	✓				
+Projector starten		✓			
+Projectie kiezen		✓			
+Helderheid		✓			
+Rustgevende muziek			✓		
+Volume			✓		
+White noise			✓		
+Automatische activatie				✓	
+Timer				✓	
+Nachtmodus				✓	
+Microfoon gevoeligheid					✓
+Meldingen naar ouders					✓
+
+
+
+
+4. Diagram – Informatiearchitectuur (boomstructuur)
+
+Slaapprojector Systeem
+│
+├── Detectie
+│   ├── Microfoon detecteert huilen
+│   ├── Huilanalyse
+│   └── Slaapstatus van het kind
+│
+├── Projector
+│   ├── Projector aan/uit
+│   ├── Type projectie
+│   ├── Animatie
+│   └── Helderheid
+│
+├── Geluid
+│   ├── Rustgevende deuntjes
+│   ├── Muziek kiezen
+│   ├── White noise
+│   └── Volume
+│
+├── Automatische reactie
+│   ├── Activatie bij huilen
+│   ├── Timer
+│   └── Nachtmodus
+│
+└── Instellingen
+    ├── Gevoeligheid microfoon
+    ├── Meldingen naar ouders
+    └── Systeeminstellingen
+
 
 **MVP-definitie**
 

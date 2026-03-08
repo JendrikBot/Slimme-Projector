@@ -106,4 +106,8 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
+Summer, J. V. (2025, 11 juli). What color light helps you sleep? Sleep Foundation. https://www.sleepfoundation.org/bedroom-environment/what-color-light-helps-you-sleep#:~:text=Research%20has%20shown%20that%20exposure,morning%2C%20known%20as%20sleep%20inertia
 
+Sleep Foundation. (2025, 29 juli). Music and Sleep. https://www.sleepfoundation.org/noise-and-sleep/music
+
+Loewy, J. L. (2013). The Effects of Music Therapy on Vital Signs, Feeding, and Sleep in Premature Infants (5de editie, Vol. 131). https://publications.aap.org/pediatrics/article-abstract/131/5/902/31313/The-Effects-of-Music-Therapy-on-Vital-Signs?redirectedFrom=fulltext?autologincheck=redirected
