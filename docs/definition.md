@@ -1,6 +1,6 @@
 ## Definition
 
-<<<<<<< HEAD
+
 ### Doestellingen
 In deze fase van het ontwerp was het noodzakelijk om grote, belangrijke keuzes te maken om dan later met een goede basis verder te kunnen werken. Het product moet makkelijk op te zetten zijn en moet ook effectief rust bieden aan kinderen. De voornaamste onderzoeksvragen waren hierbij: "Hoe zal het product opgezet worden, zodat het functioneel is en niet in de weg hangt?" en " Kan een subtiele beweging in het ontwerp voor meer rust bieden of eerder onrust?"
 Om op de eerste onderzoeksvraag te antwoorden werd een prototype in een eerste gebruikerstest volgens het "Think aloud program" getest. Met een ander prototype werd de tweede onderzoeksvraag getest. 
@@ -22,8 +22,7 @@ Ook kon het ontwerp niet in de weg staan. Er bleek echter wel noodzaak om de oph
 
 ### Conclusies & implicaties
 
-Definieer de belangrijkste designbeslissingen.
-=======
+
 
 
 ### Doestellingen
@@ -96,4 +95,4 @@ Dit vertaalt zich in:
 -duidelijke voorspelbaarheid van functies (zoals de spreekfunctie en timing)
 
 Dit principe stuurt verdere ontwerpkeuzes aan, zowel hardwarematig als softwarematig.
->>>>>>> 5b97cb94f365ad921d80fa8c961226d340f83564
+

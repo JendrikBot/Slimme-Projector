@@ -94,10 +94,8 @@ Troostobjecten          Passief en niet adaptief
 
 Analyse: Er ontbreekt een geïntegreerde oplossing die emotionele geruststelling biedt zonder overprikkeling of continue ouderlijke tussenkomst. 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 5b97cb94f365ad921d80fa8c961226d340f83564
+
 ### Conclusies & implicaties
 Belangrijkste inzichten:
 
@@ -137,8 +135,8 @@ How Might We
 
 Hoe kunnen we een warme, niet-invasieve technologie ontwerpen die jonge kinderen tijdens slaapregressie geruststelt en tegelijk de nachtelijke belasting voor ouders vermindert?
 
-<<<<<<< HEAD
-=======
+
+
 * 1 Minimale cognitieve en zintuiglijke belasting:
 
 Het systeem mag geen schermen, felle kleuren, harde geluiden of complexe interacties bevatten.
@@ -160,4 +158,4 @@ Afgeleid uit:
   – Nachtelijke autonomie
   – Ouders willen niet telkens ingrijpen
   – Nood aan voorspelbaarheid en controle
->>>>>>> 5b97cb94f365ad921d80fa8c961226d340f83564
+

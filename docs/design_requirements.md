@@ -1,4 +1,5 @@
 ## Overzicht van Design Requirements
+
 || **Status** || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan ||
 
 | **R1** | Het systeem moet emotionele geruststelling bieden aan kinderen via zachte, niet-stimulerende signalen (licht, geluid, ritme). 
@@ -19,7 +20,7 @@
 | **R6** | De spreekfunctie moet onmiddellijk herkenbaar zijn als een geruststellende ouderstem en geen extra mentale belasting veroorzaken.            
 | User test – QAP                            |   ⚠️   |
 
-| **R7** | Het ophangsysteem moet veilig, stabiel en niet-storend zijn in de slaapkamercontext.                                                  | User test – Wave 2                         |   ⚠️   |
+| **R7** | Het ophangsysteem moet veilig, stabiel en niet-storend zijn in de slaapkamercontext.                                      | User test – Wave 2                         |   ⚠️   |
 
 | **R8** | De installatie van het systeem moet laagdrempelig en intuïtief zijn, met minimale invasiviteit (bijv. zonder boren).                         
 | User test – Think Aloud / Wave 2           |    ❌   |
