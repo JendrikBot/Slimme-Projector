@@ -15,7 +15,7 @@ Om een duidelijker beeld te krijgen in de visie van de werking van het systeem w
 
 **Productarchitectuur (I/O)**
 
-Om vroegtijdig een beeld te krijgen van naarmate de technische ideeën mogelijk waren, werd een raspberry pi zero 2 W aangekocht samen met een draagbare projector. Toen de verbinding met behulp van code slaagde, was het duidelijk dat er op deze manier verder gebouwd kon worden. De verschillende sensoren, actuatoren en datastromen  zijn in een [productarchitecuur](/img/productarchitectuur_develop_1.png) in kaart gebracht.
+Om vroegtijdig een beeld te krijgen van naarmate de technische ideeën mogelijk waren, werd een raspberry pi zero 2 W aangekocht samen met een draagbare projector. Toen de verbinding met behulp van code slaagde, was het duidelijk dat er op deze manier verder gebouwd kon worden. De verschillende sensoren, actuatoren en datastromen  zijn in een [productarchitectuur](/img/productarchitectuur_develop_1.png) in kaart gebracht.
 
 **User flows & Informatiearchitectuur**
 
@@ -28,7 +28,7 @@ Als minimal viabel productfuncties besluiten we op basis hiervan dat:
 
 * Activatie van systeem: Python programma draait automatisch na opstarten, zonder manuele interactie.
 
-* Onderdrukking van bijkomende ruis:  Het bijkomen lawaai van de ingebouwde ventilatie in de projector is geen storende factor.
+* Onderdrukking van bijkomende ruis:  Het bijkomend lawaai van de ingebouwde ventilatie in de projector is geen storende factor.
 
 ***Een systeem dat automatisch geluid detecteert bij een slapend kind en een rustgevende projectie toont om het kind weer tot rust te brengen.***
 
