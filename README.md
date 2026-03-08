@@ -6,9 +6,9 @@ de slimme lichtprojector die kinderen ondersteunt bij het krijgen van een goede 
 🌱 Grown at Ghent University 🏛️ Industrial Design Engineering ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
  
-=======
+
 08/03/2026 van de laatste update  
->>>>>>> 5b97cb94f365ad921d80fa8c961226d340f83564
+
 
 ## Samenvatting
 Slaapregressie bij jonge kinderen tussen 1,5 en 2,5 jaar vormt een terugkerend probleem voor gezinnen. Kinderen worden ’s nachts herhaaldelijk wakker en zoeken nabijheid en emotionele geruststelling, terwijl ouders te maken krijgen met slaaptekort, onzekerheid en een verhoogde mentale belasting. Bestaande oplossingen sluiten onvoldoende aan bij deze leeftijdsfase en vereisen vaak actieve ouderlijke tussenkomst of zorgen voor extra prikkels.
@@ -19,21 +19,18 @@ Op basis van deze inzichten werd een warm, slaapondersteunend systeem voorgestel
 
 Door automatisch en passief te werken, biedt het systeem het kind een gevoel van nabijheid en veiligheid, terwijl de nood aan nachtelijke ouderlijke tussenkomst vermindert. Zo creëert de oplossing rust voor zowel kind als ouder.
 
-<<<<<<< HEAD
-![render](./img/render_slimme_projector.png)
-=======
+
+
+
 ![render](./img/Bottelberghe_Jendrik_render_Slimme-Projector.png)
->>>>>>> 5b97cb94f365ad921d80fa8c961226d340f83564
 <p align="center">
 </p>
 
 ## Introductie
 De slimme lichtprojector biedt hulp aan kinderen met slaapproblematiek. Het probleem dat ouders midden in de nacht wakker gemaakt worden door hun kinderen dient opgelost te worden met behulp van ons project. De slimme lichtprojector merkt op dat het kind ontwaakt en schiet meteen in actie. De projector schijnt rustgevende, ritmische beelden of strobes en maakt witte ruis om het kind rustiger te maken. De instellingen van de projector kunnen door de ouders ingesteld worden met behulp van een app. Zo kan het product op elk kind afgesteld worden. Het is de bedoeling dat de projector zo gemakkelijk mogelijk te installeren is, zonder veel kabels te moeten verbinden of gaten te moeten boren in het plafond. 
-<<<<<<< HEAD
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
-=======
 
->>>>>>> 5b97cb94f365ad921d80fa8c961226d340f83564
+
+Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
 
 ## Inhoudstafel
 
@@ -58,7 +55,7 @@ AI werd in dit project gebruikt om duiding te geven bij opdrachten, het helpen o
 
 ## Bijlagen
 ### Discovery
-<<<<<<< HEAD
+
 * Literatuuronderzoek (N=)
   * [Protocol](./reports%20and%20protocols/Bottelberghe_Jendrik_Protocol%20literatuuronderzoek%20JB.pdf)
   * [Rapport](./reports%20and%20protocols/Bottelberghe_Jendrik_rapportering%20literatuuronderzoek%20JB.pdf)
@@ -95,12 +92,12 @@ AI werd in dit project gebruikt om duiding te geven bij opdrachten, het helpen o
 * User testing wave 2 (N=4)
   * [Protocol_Felix](./reports%20and%20protocols/Onderzoeksprotocol%20spreekfunctie,%20energievoorziening%20(QAP).pdf)
   * [Rapport_Felix](./reports%20and%20protocols/FelixVanhoutteRapporteringQAP.pdf)
->>>>>>> 5b97cb94f365ad921d80fa8c961226d340f83564
+
 
 ## Licentie
 >
 
-This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
+This repository contains both software and design materials created as part of an industrial design engineering project at Ghent University.
 
 - **Software and code:** [MIT License](./LICENSE-MIT)  
 - **Design, documentation, CAD, and media:** [CC BY 4.0 License](./LICENSE)
