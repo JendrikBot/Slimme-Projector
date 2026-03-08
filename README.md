@@ -73,7 +73,7 @@ AI werd in dit project gebruikt om duiding te geven bij opdrachten, het helpen o
 * User testing wave 2 (N=8)
   * [Protocol](url)
   * [Rapport](url)
-=======
+
 * Literatuuronderzoek 
   * [Protocol](./reports%20and%20protocols/Bottelberghe_Jendrik_Protocol%20literatuuronderzoek%20JB.pdf)
   * [Rapport](./reports%20and%20protocols/Bottelberghe_Jendrik_rapportering%20literatuuronderzoek%20JB.pdf)
