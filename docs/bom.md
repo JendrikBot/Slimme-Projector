@@ -15,14 +15,18 @@ componenten:
 * [mini_HDMI_kabel](https://www.kiwi-electronics.com/nl/mini-hdmi-kabel-mini-naar-standaard-1-meter-2996)
 
 
-| **Onderdeel**           | **Geschatte prijs (€)** |
-| ----------------------- | ----------------------- |
-| Mini-videoprojector     | ~54,99                  |
-| Raspberry Pi Zero  2 W  | 14,59                   |
-| HDMI-adapter            | ~8,00                   |
-| Voeding (5.1 V 2.5 A)   | 7,29                    |
-| Mini HDMI-kabel         | 3,99                    |
-| **Totaal (richtprijs)** | **~€89–€90**            |
+| **Onderdeel**               |**prijs (€)**|
+| -----------------------     | --------------------|
+| Mini-videoprojector         | 54,99               |
+| Raspberry Pi Zero  2 W      | 20,56               |
+| mini HDMI naar HDMI-adapter | 11,90               |
+| Voeding (5.1 V 2.5 A)       | 8,82                |
+| USB C female naar micro USB male adapter                       | 1,08                |
+|USB C naar USB A hub         | 7,99                |
+|Philips 16GB micro SD        | 9,95                |
+|Breadboard                   | 4,99                |
+|zelfklevende klitteband      | 0,99                |
+| **Totaal**                  | **121,27**        |
 
 
 - Wat hebben anderen nodig om dit te maken (zie vb. instructables)?
@@ -33,9 +37,9 @@ Basismaterialen (PLA, aluminium, staal, kunststof, lijm)
 
 Elektronische componenten (projector, Raspberry Pi, kabels, voeding)
 
-Gereedschap (3D-printer, boormachine, soldeerbout, handgereedschap)
+Gereedschap (3D-printer, boormachine, handgereedschap)
 
-Softwarebestanden (STL-files, Pi-OS, UI-mockups)
+Softwarebestanden (STL-files, Pi-OS, python programmeertaal)
 
-Basisvaardigheden (3D-printen, elektronica, montage)
+Basisvaardigheden (3D-printen, elektronica, montage, coderen)
 
