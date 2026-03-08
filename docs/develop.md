@@ -110,27 +110,29 @@ Context:
 
 Voor het bepalen van de informatiearchitectuur werd een open card sorting methode gebruikt. Deelnemers kregen kaarten met verschillende functies van het systeem en werden gevraagd deze in logische groepen te verdelen. Daarna gaven zij elke groep een naam. Deze methode helpt om de mentale modellen van gebruikers te begrijpen.
 
-3. Analyse van de Card Sorting
-| Informatie-item                | Detectie | Projector | Geluid | Automatisch systeem | Instellingen |
-|--------------------------------|----------|-----------|--------|---------------------|--------------|
-| Microfoon detecteert huilen   | ✓        |           |        |                     |              |
-| Huilanalyse                   | ✓        |           |        |                     |              |
-| Projector starten             |          | ✓         |        |                     |              |
-| Projectie kiezen              |          | ✓         |        |                     |              |
-| Helderheid                    |          | ✓         |        |                     |              |
-| Rustgevende muziek            |          |           | ✓      |                     |              |
-| Volume                        |          |           | ✓      |                     |              |
-| White noise                   |          |           | ✓      |                     |              |
-| Automatische activatie        |          |           |        | ✓                   |              |
-| Timer                         |          |           |        | ✓                   |              |
-| Nachtmodus                    |          |           |        | ✓                   |              |
-| Microfoon gevoeligheid        |          |           |        |                     | ✓            |
-| Meldingen naar ouders         |          |           |        |                     | ✓            |
+| Informatie-item               | Detectie | Projector | Geluid | Automatisch systeem | Instellingen |
+|-------------------------------|----------|-----------|--------|---------------------|--------------|
+| Microfoon detecteert huilen  | ✓        |           |        |                     |              |
+| Huilanalyse                  | ✓        |           |        |                     |              |
+| Projector starten            |          | ✓         |        |                     |              |
+| Projectie kiezen             |          | ✓         |        |                     |              |
+| Helderheid                   |          | ✓         |        |                     |              |
+| Rustgevende muziek           |          |           | ✓      |                     |              |
+| Volume                       |          |           | ✓      |                     |              |
+| White noise                  |          |           | ✓      |                     |              |
+| Automatische activatie       |          |           |        | ✓                   |              |
+| Timer                        |          |           |        | ✓                   |              |
+| Nachtmodus                   |          |           |        | ✓                   |              |
+| Microfoon gevoeligheid       |          |           |        |                     | ✓            |
+| Meldingen naar ouders        |          |           |        |                     | ✓            |
 
 
 
 4. Diagram – Informatiearchitectuur (boomstructuur)
 
+## 4. Diagram – Informatiearchitectuur (boomstructuur)
+
+```
 Slaapprojector Systeem
 │
 ├── Detectie
@@ -159,6 +161,7 @@ Slaapprojector Systeem
     ├── Gevoeligheid microfoon
     ├── Meldingen naar ouders
     └── Systeeminstellingen
+```
 
 
 **MVP-definitie**
