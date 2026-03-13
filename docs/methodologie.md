@@ -1,7 +1,7 @@
 ## Methodologie
 
 
-Het ontwerpproces van dit project volgde een iteratieve, gebruiksgerichte aanpak, gebaseerd op een aangepast [Double Diamond-model](../img/doubleDiamond-tijdlijn.png). Dit model structureert het proces in vier fasen: Discover, Define, Develop en Deliver. Doorheen alle fasen stond continue terugkoppeling via gebruikersonderzoek en testen centraal, met als doel het ontwerp af te stemmen op de noden van zowel kinderen als ouders.
+Het ontwerpproces van dit project volgde een iteratieve, gebruiksgerichte aanpak, gebaseerd op een aangepast [Double Diamond-model](/img/Double_Diamond.jpg). Dit model structureert het proces in vier fasen: Discover, Define, Develop en Deliver. Doorheen alle fasen stond continue terugkoppeling via gebruikersonderzoek en testen centraal, met als doel het ontwerp af te stemmen op de noden van zowel kinderen als ouders.
 
 
 
