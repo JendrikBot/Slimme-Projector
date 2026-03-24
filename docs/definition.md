@@ -6,8 +6,17 @@ In deze fase van het ontwerp was het noodzakelijk om grote, belangrijke keuzes t
 Om op de eerste onderzoeksvraag te antwoorden werd een prototype in een eerste gebruikerstest volgens het "Think aloud program" getest. Met een ander prototype werd de tweede onderzoeksvraag getest. 
 De testen werden uitgevoerd door ouders, aangezien zij het meest in contact zullen komen met het ontwerp.
 ### Materiaal & methoden
+
+Tijdens de definitiefase werd sterk ingezet op [human-product interaction](/img/HPI.jpg), met als doel een oplossing te ontwikkelen die intuïtief, rustgevend en gebruiksvriendelijk is voor zowel kind als ouder. We kozen bewust voor een ontwerp zonder schermen en met een minimum aan knoppen, om de cognitieve belasting zo laag mogelijk te houden en het gebruik ’s nachts niet complex of storend te maken.
+
+Daarnaast werd aandacht besteed aan een eenvoudige installatie, zonder boren of ingewikkelde instellingen, zodat de fysieke en mentale inspanning voor de gebruiker beperkt blijft. De interactie met het product gebeurt voornamelijk via zintuiglijke feedback, zoals licht en geluid, waardoor de gebruiker op een natuurlijke manier aanvoelt wat het systeem doet, zonder expliciete instructies nodig te hebben.
+
+Tot slot werd ook de emotionele interactie meegenomen in het ontwerp. Het systeem is gericht op het creëren van een gevoel van rust en veiligheid, wat bijdraagt aan een positieve gebruikerservaring en het emotioneel comfort van het kind tijdens de nacht. Op deze manier wordt niet alleen de functionaliteit, maar ook de beleving van het product centraal gesteld.
+
+
 Beide onderzoeken werden apart in twee waves uitgevoerd. 
 Het eerste onderzoek maakte gebruik van een bureaulamp-armatuur, verbonden aan een 3D-geprinte vlinder dat de projector voorstelt. Deze werden verbonden met een touwtje. Ook was er een [figma template](https://www.figma.com/make/z6YTW5lYvv8C9mwTjm8RgK/Bluetooth-Projector-Control-Interface?fullscreen=1&t=Lg0442KkgM1P3j8a-1), gegenereerd door Ai, die zich voordeed als de software van de lichtprojector. De eerste test volgde dit [protocol](../reports%20and%20protocols/onderzoeksprotocol%20ophangsysteem.pdf). Hier was de bedoeling dat de gebruiker enkele testjes volgde met het ontwerp en luidop vertelde wat ze aan het doen waren. Zo kon onderzocht worden als het ontwerp intuïtief genoeg was, en wat de gebruikers denken van het design. 
+
 ![eerste ontwerp](../img/wave1-setup.jpeg)
 De resultaten van het eerste ontwerp maakten duidelijk dat er aanpassingen nodig waren. De feedback van de figma template was verrassend goed, hier werden ook geen verdere aanpassingen aan gedaan. Bij de tweede iteratie werd het ophangsysteem vereenvoudigd. De projector werd opgehangen boven het bed. Dit gebeurde met touwtjes die de projector vanaf het plafond naar beneden liet hangen.
 ![tweede ontwerp](../img/wave2-setup.jpeg)
