@@ -45,7 +45,7 @@
 
 **storyboard**
 
-Om een duidelijker beeld te krijgen in de visie van de werking van het systeem werd een nieuwe iteratie van een storyboard gemaakt. Dit werd getekend, rekening houdend met de inzchten die verkregen werden tijdens de feedback. Na overleg van de priotirtering werd dit [storyboard](/img/afbeelding_storyboard_develop_1.JPEG) getekend.
+Om een duidelijker beeld te krijgen in de visie van de werking van het systeem werd een nieuwe iteratie van een storyboard gemaakt. Dit werd getekend, rekening houdend met de inzchten die verkregen werden tijdens de feedback. Na overleg van de priotirtering werd dit [storyboard](/img/afbeelding%20storyboard%20develop%201.JPEG) getekend.
 
 **Productarchitectuur (I/O)**
 
