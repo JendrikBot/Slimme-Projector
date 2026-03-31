@@ -27,7 +27,7 @@ componenten:
 |Breadboard                   | 4,99                |
 |zelfklevende klitteband      | 0,99                |
 |video capture card           | 5,19                |
-| **Totaal**                  | **121,27**        |
+| **Totaal**                  | **126,46**        |
 
 
 - Wat hebben anderen nodig om dit te maken (zie vb. instructables)?
