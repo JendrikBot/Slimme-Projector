@@ -26,6 +26,7 @@ componenten:
 |Philips 16GB micro SD        | 9,95                |
 |Breadboard                   | 4,99                |
 |zelfklevende klitteband      | 0,99                |
+|video capture card           | 5,19                |
 | **Totaal**                  | **121,27**        |
 
 
