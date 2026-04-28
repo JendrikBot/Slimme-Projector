@@ -14,3 +14,6 @@
 | **3.2** | Het systeem moet automatisch een rustgevende projectie activeren wanneer huilen wordt gedetecteerd zonder dat ouders moeten ingrijpen.  | Develop – User flow / Activatie | ✅ voldaan |
 | **3.3** | Het systeem moet binnen enkele seconden reageren nadat een relevant huilgeluid is gedetecteerd. | Develop – Reactiesnelheid systeem | ⚠️ gedeeltelijk voldaan |
 | **3.4** | Het systeem moet automatisch terugkeren naar monitoringmodus wanneer het huilen stopt. | Develop – User flow | ⚠️ gedeeltelijk voldaan |
+| **3.5** | Het systeem moet binnen ≤ 3 seconden operationeel zijn na activatie. | Develop – User test | ❌ niet voldaan |
+| **3.6** | De powerknop moet direct zichtbaar en herkenbaar zijn (visuele signifier). | Develop – User test | ❌ niet voldaan |
+| **3.7** | Het geluidsniveau moet onder een storingsdrempel liggen voor nachtgebruik. | Develop – User test | ⚠️ gedeeltelijk voldaan |

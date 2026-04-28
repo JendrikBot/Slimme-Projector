@@ -218,3 +218,7 @@ Uit deze resultaten blijkt dat weinig tot geen rekening mee gehouden moet worden
 **Cognitieve & sensoriële ergonomie**
 
 Na Develop 1 werd een [nieuw prototype]() ontworpen. Hoewel dit een stap in de goede richting was, was dit niet volledig geschikt om mee verder te gaan. Het model was te groot en te omvangrijk om esthetische waarde te hebben. Na vorig ontwerp werd een [tweede iteratie](/img/develop_2_prototype.JPEG) ontworpen, dit keer werd besloten om de kabels minder te verstoppen en verder te werken op de support. Met dit prototype werd een praktijktest uitgevoerd om tekortkomingen na te gaan bij gebruikers. Hoewel het project systemisch wel slaagde, waren er 2 grote werkpunten. Zo was de opstarttijd te lang waardoor *Gulf of Execution* vergroot, aangezien het ontwakingsmoment niet meteen kan opgevangen worden door een reactie. Het tweede grote werkpunt was het storende geluid van de projector. Uit deze frustraties en de andere interacties die uit de gebruikerstest voortkwamen werd een [7 stages of action](/img/seven_stages_of_action.png) opgesteld. Daaruit bleek ook dat een duidelijke signifier voor de power button handig kan zijn om de Gulf of execution te verkleinen. 
+
+
+**Develop 3** 
+
