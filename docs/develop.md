@@ -202,3 +202,20 @@ Voor het slaapprojectorconcept werden onder andere oplossingen onderzocht voor d
 ## Build & Test
 
 In deze fase van het ontwerp was het vooral belangrijk om een idee te krijgen in de moeilijkheidsgraad van de werking. Het voornaamste doel was om te kunnen bewijzen dat een audio-input een output kon geven via een projector, en dit is geslaagd. Nu het zeker is dat het mogelijk is om op de huidige componenten verder te bouwen, volgen meer user-tests en gebruikersonderzoeken. De [eerste iteratie](/img/afbeelding_samenstelling_1.JPEG) van de proof of concept bestond uit een custom 3D-print dat de boog van de projector volgt, beschikt met gaten om de raspberry pi module aan te bevestigen. Deze werd met plakband vastgemaakt om een oordeel te kunnen vellen over passing. De [tweede iteratie](/img/afbeelding_samenstelling_2.JPG) kwam na de conclusie dat de passing voldeed en bevestigt de componenten met klitteband.
+
+## Develop 2: 
+
+**Usability Goals**
+
+Voor dit ontwerp is het voor de gebruiksvriendelijkheid het belangrijkst dat de projector makkelijk en intuïtief op te stellen is. Ook was het voor ons belangrijk dat de projector een mooie projectie had, ookal was het makkelijk op te stellen. Als rode draad door het project speelde (kind)veiligheid ook een primaire rol.
+
+* De projector kan opgezet worden binnen 120 seconden.
+
+* De projectie is scherp
+
+* Het ontwerp is kindveilig 
+
+**Antropometrische analyse**
+
+In dit project leek een Antropometrische analyse eerst weinig zin te hebben, aangezien het ontwerp niet zwaar was en geplaatst wordt op een nachtkast of dergelijke die afhankelijk is van de gebruiker. 
+
