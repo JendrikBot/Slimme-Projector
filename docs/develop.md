@@ -1,9 +1,9 @@
-## Develop 
+## Develop
 
-
-## Develop 1:
+## Develop 1
 
 ## Analyse en Prioritering
+
 1. Onderzoeksvragen + hypotheses
 
 1.1. Effectiviteit van het systeem
@@ -12,13 +12,11 @@
 
 · Het systeem reageert correct op relevante geluiden en vermindert het probleem waarvoor het ontworpen is.
 
-
 1.2. Detectiedrempel (Decibel)
 
 · Vanaf welk geluidsniveau moet het systeem reageren om vals alarm te vermijden?
 
 · Een drempel boven het gemiddelde achtergrondgeluid zorgt ervoor dat het systeem enkel reageert op relevante geluiden.
-
 
 1.3. Integratie van een speaker
 
@@ -26,20 +24,17 @@
 
 · Een speaker zorgt voor een extra afschrikmiddel waardoor het systeem effectiever wordt.
 
-
 1.4. Installatie / ophangen
 
 · Is het haalbaar en praktisch om het systeem op te hangen?
 
 · We vermoeden dat het systeem beter zal werken als het op een nachtkastje zal staan of op de grond. + het is makkelijker te instaleren.
 
-
 1.5. Reactiesnelheid van het systeem
 
 · Hoe snel moet het systeem reageren nadat een relevant geluid is gedetecteerd?
 
 · Het systeem moet binnen enkele seconden reageren na detectie van een relevant geluid om effectief te zijn en de gewenste reactie uit te lokken
-
 
 ## Deconstructie
 
@@ -53,13 +48,12 @@ Om vroegtijdig een beeld te krijgen van naarmate de technische ideeën mogelijk 
 
 **User flows & Informatiearchitectuur**
 
-* User flow 
+* User flow
 Deze [user flow](/img/userflow_develop_1.jpg) is gebaseerd op de Hierarchical Task Analysis (HTA) met als hoofddoel “0. Het kind terug in slaap krijgen”. Wanneer het kind begint te huilen, detecteert de microfoon van het systeem het geluid en analyseert het of het effectief om huilen gaat. Indien dit het geval is, activeert het systeem automatisch de projector.
 
 De projector projecteert rustgevende beelden op het plafond en kan tegelijk zachte, rustgevende deuntjes afspelen om het kind te kalmeren. Zodra het huilen stopt en het kind opnieuw rustig wordt, detecteert het systeem dit en dimt de projector geleidelijk. Daarna keert het systeem terug naar de monitoringmodus.
 
 Deze flow toont hoe het systeem automatisch reageert op huilen en het kind helpt om opnieuw in slaap te vallen zonder tussenkomst van de ouders.
-
 
 * Informatiearchitectuur
 
@@ -106,7 +100,7 @@ Context:
 
 · Het product reageert automatisch wanneer het kind huilt
 
-2. Card Sorting Methode
+1. Card Sorting Methode
 
 Voor het bepalen van de informatiearchitectuur werd een open card sorting methode gebruikt. Deelnemers kregen kaarten met verschillende functies van het systeem en werden gevraagd deze in logische groepen te verdelen. Daarna gaven zij elke groep een naam. Deze methode helpt om de mentale modellen van gebruikers te begrijpen.
 
@@ -126,11 +120,7 @@ Voor het bepalen van de informatiearchitectuur werd een open card sorting method
 | Microfoon gevoeligheid       |          |           |        |                     | ✓            |
 | Meldingen naar ouders        |          |           |        |                     | ✓            |
 
-
-
-
-
- **Diagram / Informatiearchitectuur (boomstructuur)** 
+ **Diagram / Informatiearchitectuur (boomstructuur)**
 
 ```
 Slaapprojector Systeem
@@ -163,10 +153,9 @@ Slaapprojector Systeem
     └── Systeeminstellingen
 ```
 
-
 **MVP-definitie**
 
-In deze fase werd duidelijk dat de prioriteiten voor een deel anders liggen dan voordien. De focus van dit product lag in het begin van de fases vooral op het dilemma dat hing over het installatiesysteem (ophanging of neerzetten). In deze fase lag dit eerder achterwege. Nu de projector aangekocht is, kan meer gefocust worden op aspecten zoals activatie, geluid detectie en het beperken van mogelijke nadelen. 
+In deze fase werd duidelijk dat de prioriteiten voor een deel anders liggen dan voordien. De focus van dit product lag in het begin van de fases vooral op het dilemma dat hing over het installatiesysteem (ophanging of neerzetten). In deze fase lag dit eerder achterwege. Nu de projector aangekocht is, kan meer gefocust worden op aspecten zoals activatie, geluid detectie en het beperken van mogelijke nadelen.
 Als minimal viabel productfuncties besluiten we op basis hiervan dat:
 
 * Wake detection: activatie als drempelwaarde overschreden wordt.
@@ -181,7 +170,6 @@ Als minimal viabel productfuncties besluiten we op basis hiervan dat:
 
 * Morfologische Matrix:
 
-
 | Functie / Probleem          | Oplossing 1            | Oplossing 2                 | Oplossing 3                         | Oplossing 4                         |
 |-----------------------------|------------------------|-----------------------------|-------------------------------------|-------------------------------------|
 | Detectie van huilen / wakker zijn | Microfoon              | Bewegingssensor             | Combinatie geluid + beweging        |                                     |
@@ -191,7 +179,6 @@ Als minimal viabel productfuncties besluiten we op basis hiervan dat:
 | Intensiteit aanpassen       | Vast niveau            | Automatisch aanpassen       | Manueel instellen via de app        | Adaptief op basis van huilvolume    |
 | Stoppen van projectie       | Timer                  | Wanneer huilen stopt        | Ouder via app                       | Geleidelijke dimmen                 |
 | Feedback naar ouders        | Geen feedback          | Meldingen via app           | Geluidsmelding                      | Slaaprapport                        |
-
 
 * Toelichting:
 
@@ -203,7 +190,7 @@ Voor het slaapprojectorconcept werden onder andere oplossingen onderzocht voor d
 
 In deze fase van het ontwerp was het vooral belangrijk om een idee te krijgen in de moeilijkheidsgraad van de werking. Het voornaamste doel was om te kunnen bewijzen dat een audio-input een output kon geven via een projector, en dit is geslaagd. Nu het zeker is dat het mogelijk is om op de huidige componenten verder te bouwen, volgen meer user-tests en gebruikersonderzoeken. De [eerste iteratie](/img/afbeelding_samenstelling_1.JPEG) van de proof of concept bestond uit een custom 3D-print dat de boog van de projector volgt, beschikt met gaten om de raspberry pi module aan te bevestigen. Deze werd met plakband vastgemaakt om een oordeel te kunnen vellen over passing. De [tweede iteratie](/img/afbeelding_samenstelling_2.JPG) kwam na de conclusie dat de passing voldeed en bevestigt de componenten met klitteband.
 
-## Develop 2: 
+## Develop 2
 
 **Usability Goals**
 
@@ -213,9 +200,10 @@ Voor dit ontwerp is het voor de gebruiksvriendelijkheid het belangrijkst dat de 
 
 * De projectie is scherp
 
-* Het ontwerp is kindveilig 
+* Het ontwerp is kindveilig
 
 **Antropometrische analyse**
 
-In dit project leek een Antropometrische analyse eerst weinig zin te hebben, aangezien het ontwerp niet zwaar was en geplaatst wordt op een nachtkast of dergelijke die afhankelijk is van de gebruiker. 
+In dit project leek een Antropometrische analyse eerst weinig zin te hebben, aangezien het ontwerp niet zwaar was en geplaatst wordt op een nachtkast of dergelijke die afhankelijk is van de gebruiker.
 
+je ma
