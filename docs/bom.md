@@ -41,4 +41,4 @@ Gereedschap (3D-printer, boormachine, handgereedschap)
 Softwarebestanden (STL-files, Pi-OS, python programmeertaal)
 
 Basisvaardigheden (3D-printen, elektronica, montage, coderen)
-hallo
+
