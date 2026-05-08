@@ -40,7 +40,7 @@ locked = False
 player = None
 timer = None
 trigger_times = []
-_running = True  # set to False on shutdown to stop background timers
+_running = True  # Bepaalt of achtergrondthreads actief blijven
 TRIGGER_COOLDOWN = 10  # seconds between accepted triggers
 last_trigger_time = 0.0
 
@@ -104,15 +104,18 @@ def reset_counter():
 def stop_show():
     global locked, player, timer, trigger_times
 
-    with state_lock:
+    with state_lock:  # Controleert of videoproces nog draait
         if player and player.poll() is None:
             try:
-                os.killpg(os.getpgid(player.pid), signal.SIGTERM)
+                os.killpg(
+                    os.getpgid(player.pid), signal.SIGTERM
+                )  # Beëindigt volledige procesgroep
             except Exception:
                 pass
+            # Reset variabelen
         player = None
         timer = None
-        trigger_times = []
+        trigger_times = []  # Lijst met tijdstippen van triggers
         locked = False
         last_trigger_time = 0.0
 
