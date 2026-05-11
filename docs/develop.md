@@ -236,7 +236,7 @@ Als eerst werd er voor de CMF-analyse gekeken naar de inbreng van de gebruikers 
 | **emotie**    | speels         | neutraal   | elegant    |            |
 
 Hierna werden patronen gezocht uit referentie-producten die gekozen werden. Deze producten zijn geen benchmarks, maar staven enkel de uitstraling en UX die met dit product nagestreefd worden. Uiteindelijk werden [deze foto's](/img/referentiefoto's.pdf) uitgekozen. Deze werden in Claude (Anthropic) geanalyseerd en er werd gevraagd om patronen te zoeken tussen de referentiefoto's om een CMF-strategie op te stellen. 
- **Patronen**
+# Patronen
 - organisch
 - mat
 - afgerond
