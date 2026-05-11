@@ -7,7 +7,7 @@ de slimme lichtprojector die kinderen ondersteunt bij het krijgen van een goede 
 
  
 
-08/03/2026 van de laatste update  
+11/05/2026 van de laatste update  
 
 
 ## Samenvatting
@@ -22,7 +22,7 @@ Door automatisch en passief te werken, biedt het systeem het kind een gevoel van
 
 
 
-![render](./img/Bottelberghe_Jendrik_render_Slimme-Projector.png)
+![render](./img/AI_render_blauw.png)
 <p align="center">
 </p>
 
