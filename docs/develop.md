@@ -220,5 +220,42 @@ Uit deze resultaten blijkt dat weinig tot geen rekening mee gehouden moet worden
 Na Develop 1 werd een [nieuw prototype]() ontworpen. Hoewel dit een stap in de goede richting was, was dit niet volledig geschikt om mee verder te gaan. Het model was te groot en te omvangrijk om esthetische waarde te hebben. Na vorig ontwerp werd een [tweede iteratie](/img/develop_2_prototype.JPEG) ontworpen, dit keer werd besloten om de kabels minder te verstoppen en verder te werken op de support. Met dit prototype werd een praktijktest uitgevoerd om tekortkomingen na te gaan bij gebruikers. Hoewel het project systemisch wel slaagde, waren er 2 grote werkpunten. Zo was de opstarttijd te lang waardoor *Gulf of Execution* vergroot, aangezien het ontwakingsmoment niet meteen kan opgevangen worden door een reactie. Het tweede grote werkpunt was het storende geluid van de projector. Uit deze frustraties en de andere interacties die uit de gebruikerstest voortkwamen werd een [7 stages of action](/img/seven_stages_of_action.png) opgesteld. Daaruit bleek ook dat een duidelijke signifier voor de power button handig kan zijn om de Gulf of execution te verkleinen. 
 
 
-**Develop 3** 
+## Develop 3
 
+
+
+
+
+**stap 2 :CMF-analyse** 
+Als eerst werd er voor de CMF-analyse gekeken naar de inbreng van de gebruikers en de directe stakeholders. Via de gegeven woordenlijst op Ufora werden voor 4 categoriën verschillende productomschrijvingen aangewezen. 
+| Categorie | Kenmerk 1     | Kenmerk 2 | Kenmerk 3 | Kenmerk 4 |
+|------------|----------------|------------|------------|------------|
+| **vorm**      | minimalistisch | afgerond   | harmonieus | organisch |
+| **materiaal** | lichtgewicht   | mat        | solide     | verfijnd  |
+| **gebruik**   | functioneel    | intuïtief  | toegankelijk | compact |
+| **emotie**    | speels         | neutraal   | elegant    |            |
+
+Hierna werden patronen gezocht uit referentie-producten die gekozen werden. Deze producten zijn geen benchmarks, maar staven enkel de uitstraling en UX die met dit product nagestreefd worden. Uiteindelijk werden [deze foto's](/img/referentiefoto's.pdf) uitgekozen. Deze werden in Claude (Anthropic) geanalyseerd en er werd gevraagd om patronen te zoeken tussen de referentiefoto's om een CMF-strategie op te stellen. 
+# Patronen
+- organisch
+- mat
+- afgerond
+- tastcontrast
+- warm
+- verfijnd
+- kalm 
+
+Hierna werden de patronen en de productomschrijvingen vergeleken en werden onderstaande keuzes gemaakt. 
+| Nr | C1 (basiskleur) | C2 (accentkleur) | M (materialen) | F1 (visuele afwerking) | F2 (tactiele afwerking) |
+|----|------------------|------------------|----------------|------------------------|--------------------------|
+| 1 | zwart | **blauw**| **PLA (stijf, standaard)** | **mat** | micro-textuur |
+| 2 | donkergrijs | rood | **TPU (flexibel, grip)** | hoogglans | **soft-touch** |
+| 3 | lichtgrijs | geel | PETG (semi-transparant, slagvast) | geborsteld | **glad** |
+| 4 | wit | groen | PVA (oplosbaar, niche) | transparant | ruw |
+| 5 | **crème** |  | ABS (impact, industriëler) | satijn | rubberized |
+| 6 |  |  | PC (polycarbonaat, high-end, transparant mogelijk) | translucent | geknurlt |
+| 7 |  |  | PP (licht, flexibel scharnierend) |  | geribbeld |
+| 8 |  |  | aluminium (metaal, premium referentie) |  |  |
+| 9 |  |  | nylon (PA, slijtvast) |  |  |
+
+Op basis van deze keuzes en de huidige visie van hoe het ontwerp er moet komen uit te zien, werd met Vizcom een [render](/img/render_Vizcom.png) gegenereerd. Aangezien de vorm van deze render goed gepaard ging met de voorafgaande keuzes, werd op basis hiervan een [eigen iteratie](/img/model_NX_JB.png) gemodelleerd in Siemens NX en werd hierop de CMF-strategie toegepast met behulp van ChatGPT om een [nieuwe render](/img/AI_render_blauw.png) te verkrijgen. Deze werd nog eens in [andere kleuren](/img/AI_render_multicolor.png) ook gegenereerd om toch nog eens extra te kunnen vergelijken.
