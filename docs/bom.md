@@ -28,17 +28,16 @@ componenten:
 |video capture card           | 5,19                |
 | **Totaal**                  | **126,46**        |
 
-- Wat hebben anderen nodig om dit te maken (zie vb. instructables)?
 
-Om dit prototype te bouwen, heeft een maker nodig:
+**Om dit prototype te bouwen, heeft een maker nodig:**
 
-Basismaterialen (PLA, aluminium, staal, kunststof, lijm)
+Basismaterialen (PLA, kunststof, lijm, TPU)
 
 Elektronische componenten (projector, Raspberry Pi, kabels, voeding)
 
-Gereedschap (3D-printer, boormachine, handgereedschap)
+Gereedschap (3D-printer, boormachine, handgereedschap, schroevendraaier)
 
 Softwarebestanden (STL-files, Pi-OS, python programmeertaal)
 
-Basisvaardigheden (3D-printen, elektronica, montage, coderen)
+Basisvaardigheden (3D-printen, elektronica, montage, coderen, 3d-modelleren)
 

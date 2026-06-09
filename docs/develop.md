@@ -16,19 +16,19 @@
 
 · Vanaf welk geluidsniveau moet het systeem reageren om vals alarm te vermijden?
 
-· Een drempel boven het gemiddelde achtergrondgeluid zorgt ervoor dat het systeem enkel reageert op relevante geluiden.
+· Een drempel boven het gemiddelde achtergrondgeluid zorgt ervoor dat het systeem enkel reageert op relevante geluiden. Later is het eventueel ook mogelijk om een algoritme te gebruiken dat kinder- en volwassengeluiden onderscheidt.
 
 1.3. Integratie van een speaker
 
 · Verhoogt een geïntegreerde speaker de effectiviteit van het systeem?
 
-· Een speaker zorgt voor een extra afschrikmiddel waardoor het systeem effectiever wordt.
+· Het rustegevende effect van geluid kan niet gegarandeerd worden en wordt dus niet verde meegenomen. verder zou een auditieve uitvoer voor een audio feedback loop kunnen zorgen.
 
 1.4. Installatie / ophangen
 
 · Is het haalbaar en praktisch om het systeem op te hangen?
 
-· We vermoeden dat het systeem beter zal werken als het op een nachtkastje zal staan of op de grond. + het is makkelijker te instaleren.
+· Het vermoeden is dat het systeem beter zal werken als het op een nachtkastje of op de grond zal staan. Ook is het dan makkelijker te installeren.
 
 1.5. Reactiesnelheid van het systeem
 
@@ -40,7 +40,7 @@
 
 **storyboard**
 
-Om een duidelijker beeld te krijgen in de visie van de werking van het systeem werd een nieuwe iteratie van een storyboard gemaakt. Dit werd getekend, rekening houdend met de inzchten die verkregen werden tijdens de feedback. Na overleg van de priotirtering werd dit [storyboard](/img/afbeelding%20storyboard%20develop%201.JPEG) getekend.
+Om een duidelijker beeld te krijgen in de visie van de werking van het systeem werd een nieuwe iteratie van een storyboard gemaakt. Dit werd getekend, rekening houdend met de inzchten die verkregen werden tijdens de feedback. Na overleg van de priotering werd dit [storyboard](/img/afbeelding%20storyboard%20develop%201.JPEG) getekend.
 
 **Productarchitectuur (I/O)**
 
@@ -51,7 +51,7 @@ Om vroegtijdig een beeld te krijgen van naarmate de technische ideeën mogelijk 
 * User flow
 Deze [user flow](/img/userflow_develop_1.jpg) is gebaseerd op de Hierarchical Task Analysis (HTA) met als hoofddoel “0. Het kind terug in slaap krijgen”. Wanneer het kind begint te huilen, detecteert de microfoon van het systeem het geluid en analyseert het of het effectief om huilen gaat. Indien dit het geval is, activeert het systeem automatisch de projector.
 
-De projector projecteert rustgevende beelden op het plafond en kan tegelijk zachte, rustgevende deuntjes afspelen om het kind te kalmeren. Zodra het huilen stopt en het kind opnieuw rustig wordt, detecteert het systeem dit en dimt de projector geleidelijk. Daarna keert het systeem terug naar de monitoringmodus.
+De projector projecteert rustgevende beelden op het plafond. Zodra het huilen stopt en het kind opnieuw rustig wordt, detecteert het systeem dit en dimt de projector geleidelijk. Daarna keert het systeem terug naar de monitoringmodus.
 
 Deze flow toont hoe het systeem automatisch reageert op huilen en het kind helpt om opnieuw in slaap te vallen zonder tussenkomst van de ouders.
 
@@ -64,7 +64,7 @@ Gebruikers:
 
 · Vermoeide ouders die een snelle en eenvoudige interactie nodig hebben
 
-· Het kind dat indirect met het systeem interacteert
+· Het kind dat indirect met het systeem interageert
 
 Inhoud:
 · Detectie van huilen
@@ -76,10 +76,6 @@ Inhoud:
 · Type projectie
 
 · Animatie
-
-· Rustgevende muziek
-
-· Volume
 
 · Timer
 
@@ -120,43 +116,36 @@ Voor het bepalen van de informatiearchitectuur werd een open card sorting method
 | Microfoon gevoeligheid       |          |           |        |                     | ✓            |
 | Meldingen naar ouders        |          |           |        |                     | ✓            |
 
- **Diagram / Informatiearchitectuur (boomstructuur)**
+ ## Diagram / Informatiearchitectuur
 
-```
-Slaapprojector Systeem
-│
-├── Detectie
-│   ├── Microfoon detecteert huilen
-│   ├── Huilanalyse
-│   └── Slaapstatus van het kind
-│
-├── Projector
-│   ├── Projector aan/uit
-│   ├── Type projectie
-│   ├── Animatie
-│   └── Helderheid
-│
-├── Geluid
-│   ├── Rustgevende deuntjes
-│   ├── Muziek kiezen
-│   ├── White noise
-│   └── Volume
-│
-├── Automatische reactie
-│   ├── Activatie bij huilen
-│   ├── Timer
-│   └── Nachtmodus
-│
-└── Instellingen
-    ├── Gevoeligheid microfoon
-    ├── Meldingen naar ouders
-    └── Systeeminstellingen
-```
+- **Slaapprojector Systeem**
+  - **Detectie**
+    - Huildetectie via microfoon
+    - Geluidsanalyse
+    - Slaapstatus kind
+  - **Projectie**
+    - Projector aan/uit
+    - Type projectie
+    - Animatie
+    - Helderheid
+  - **Geluid**
+    - Rustgevende deuntjes
+    - Muziekselectie
+    - White noise
+    - Volume
+  - **Automatische reactie**
+    - Activatie bij huilen
+    - Timer
+    - Nachtmodus
+  - **Instellingen**
+    - Microfoongevoeligheid
+    - Meldingen naar ouders
+    - Systeeminstellingen
 
 **MVP-definitie**
 
-In deze fase werd duidelijk dat de prioriteiten voor een deel anders liggen dan voordien. De focus van dit product lag in het begin van de fases vooral op het dilemma dat hing over het installatiesysteem (ophanging of neerzetten). In deze fase lag dit eerder achterwege. Nu de projector aangekocht is, kan meer gefocust worden op aspecten zoals activatie, geluid detectie en het beperken van mogelijke nadelen.
-Als minimal viabel productfuncties besluiten we op basis hiervan dat:
+In deze fase werd duidelijk dat de prioriteiten voor een deel anders liggen dan voordien. De focus van dit product lag in het begin van de fases vooral op het dilemma dat ging over het installatiesysteem (ophanging of neerzetten). In deze fase lag dit eerder achterwege. Nu de projector aangekocht is, kan meer gefocust worden op aspecten zoals activatie, geluid detectie en het beperken van mogelijke nadelen.
+De minimal viabel productfuncties besluiten we op basis hiervan:
 
 * Wake detection: activatie als drempelwaarde overschreden wordt.
 
@@ -174,17 +163,16 @@ Als minimal viabel productfuncties besluiten we op basis hiervan dat:
 |-----------------------------|------------------------|-----------------------------|-------------------------------------|-------------------------------------|
 | Detectie van huilen / wakker zijn | Microfoon              | Bewegingssensor             | Combinatie geluid + beweging        |                                     |
 | Activatie systeem           | Automatisch bij huilen | Bij beweging van het kind   | Handmatig via app                   | Constant aan                        |
-| Visuele geruststelling      | Sterrenprojectie       | Dierenanimaties             | Rustgevende kleuren                 | Bewegende wolken                    |
-| Auditieve geruststelling    | Rustgevende deuntjes   | White noise                 | Hartslaggeluid                      | Natuurgeluiden                      |
+| Visuele geruststelling      | Sterrenprojectie       | Dierenanimaties             | Rustgevende kleuren                 | Bewegende wolken                    |                      |
 | Intensiteit aanpassen       | Vast niveau            | Automatisch aanpassen       | Manueel instellen via de app        | Adaptief op basis van huilvolume    |
 | Stoppen van projectie       | Timer                  | Wanneer huilen stopt        | Ouder via app                       | Geleidelijke dimmen                 |
 | Feedback naar ouders        | Geen feedback          | Meldingen via app           | Geluidsmelding                      | Slaaprapport                        |
 
 * Toelichting:
 
-Om verschillende oplossingsmogelijkheden te verkennen werd een morfologische matrix opgesteld. Deze methode helpt om voor elke functionele uitdaging meerdere mogelijke oplossingen te genereren en te combineren. Hierdoor kan men systematisch verschillende ontwerpvarianten onderzoeken.
+Om verschillende oplossingsmogelijkheden te verkennen werd een morfologische matrix opgesteld. Deze methode helpt om voor elke functionele uitdaging meerdere mogelijke oplossingen te genereren en te combineren. Hierdoor is het mogelijk om systematisch verschillende ontwerpvarianten te onderzoeken.
 
-Voor het slaapprojectorconcept werden onder andere oplossingen onderzocht voor de detectie van huilen, de activatie van het systeem, visuele en auditieve geruststelling en het automatisch stoppen van het systeem. Door verschillende oplossingen uit de matrix te combineren kunnen meerdere conceptvarianten worden ontwikkeld.
+Voor het slaapprojector-concept werden onder andere oplossingen onderzocht voor de detectie van huilen, de activatie van het systeem, visuele geruststelling en het automatisch stoppen van het systeem. Door verschillende oplossingen uit de matrix te combineren kunnen meerdere conceptvarianten worden ontwikkeld.
 
 ## Build & Test
 
@@ -194,7 +182,7 @@ In deze fase van het ontwerp was het vooral belangrijk om een idee te krijgen in
 
 **Usability Goals**
 
-Voor dit ontwerp is het voor de gebruiksvriendelijkheid het belangrijkst dat de projector makkelijk en intuïtief op te stellen is. Ook was het voor ons belangrijk dat de projector een mooie projectie had, ookal was het makkelijk op te stellen. Als rode draad door het project speelde (kind)veiligheid ook een primaire rol.
+Voor dit ontwerp is het voor de gebruiksvriendelijkheid het belangrijkst dat de projector makkelijk en intuïtief op te stellen is. Ook was het belangrijk dat de projector een mooie projectie had, ookal was het makkelijk om op te stellen. Als rode draad door het project speelde de veiligheid van het kind ook een primaire rol.
 
 * De projector kan opgezet worden binnen 120 seconden.
 
@@ -204,7 +192,7 @@ Voor dit ontwerp is het voor de gebruiksvriendelijkheid het belangrijkst dat de 
 
 **Antropometrische analyse**
 
-In dit project leek een Antropometrische analyse eerst weinig zin te hebben, aangezien het ontwerp niet zwaar was en geplaatst wordt op een nachtkast of dergelijke die afhankelijk is van de gebruiker.
+In dit project leek een Antropometrische analyse eerst weinig zin te hebben, aangezien het ontwerp niet zwaar was en geplaatst wordt op een nachtkast of dergelijke dat afhankelijk is van de gebruiker.
 Waar in dit project wel rekening mee gehouden kan worden zijn de minimale en maximale afmetingen voor een scherp beeld. Er werd gezocht naar de kortste en verste afstand tussen projector en projectvlak waarbij het beeld scherp kon zijn en dit bracht volgende resultaten:
 
 |     | lengte (mm) | hoogte (mm) | afstand (mm) |
@@ -212,12 +200,12 @@ Waar in dit project wel rekening mee gehouden kan worden zijn de minimale en max
 | min voc | 670         | 375         | 650          |
 | max voc | 2050        | –           | 1860         |
 
-Uit deze resultaten blijkt dat weinig tot geen rekening mee gehouden moet worden met deze parameters. Er kan geconcludeerd worden dat een stationaire projector (staand) zonder problemen gebruikt kan worden. 
+Uit deze resultaten blijkt dat er weinig tot geen rekening gehouden moet worden met deze parameters. Er kan geconcludeerd worden dat een stationaire projector (staand) zonder problemen gebruikt kan worden. 
 
 
 **Cognitieve & sensoriële ergonomie**
 
-Na Develop 1 werd een [nieuw prototype]() ontworpen. Hoewel dit een stap in de goede richting was, was dit niet volledig geschikt om mee verder te gaan. Het model was te groot en te omvangrijk om esthetische waarde te hebben. Na vorig ontwerp werd een [tweede iteratie](/img/develop_2_prototype.JPEG) ontworpen, dit keer werd besloten om de kabels minder te verstoppen en verder te werken op de support. Met dit prototype werd een praktijktest uitgevoerd om tekortkomingen na te gaan bij gebruikers. Hoewel het project systemisch wel slaagde, waren er 2 grote werkpunten. Zo was de opstarttijd te lang waardoor *Gulf of Execution* vergroot, aangezien het ontwakingsmoment niet meteen kan opgevangen worden door een reactie. Het tweede grote werkpunt was het storende geluid van de projector. Uit deze frustraties en de andere interacties die uit de gebruikerstest voortkwamen werd een [7 stages of action](/img/seven_stages_of_action.png) opgesteld. Daaruit bleek ook dat een duidelijke signifier voor de power button handig kan zijn om de Gulf of execution te verkleinen. 
+Na Develop 1 werd een [nieuw prototype]() ontworpen. Hoewel dit een stap in de goede richting was, was dit niet volledig geschikt om mee verder te gaan. Het model was te groot en te omvangrijk om esthetische waarde te hebben. Na vorig ontwerp werd een [tweede iteratie](/img/develop_2_prototype.JPEG) ontworpen, dit keer werd besloten om de kabels minder te verstoppen en verder te werken op de support. Met dit prototype werd een praktijktest uitgevoerd om tekortkomingen na te gaan bij gebruikers. Hoewel het project systemisch wel slaagde, waren er 2 grote werkpunten. Zo was de opstarttijd te lang waardoor de *Gulf of Execution* vergroot, aangezien het ontwakingsmoment niet meteen kan opgevangen worden door een reactie. Het tweede grote werkpunt was het storende geluid van de projector. Uit deze frustraties en de andere interacties die uit de gebruikerstest voortkwamen werd een [7 stages of action](/img/seven_stages_of_action.png) opgesteld. Daaruit bleek ook dat een duidelijke signifier voor de power button handig kan zijn om de *Gulf of execution* te verkleinen. 
 
 
 ## Develop 3
@@ -232,12 +220,12 @@ In de eerste fase van Develop 3 werd eerst de eerste indruk onderzocht en wat we
 * Materiaal
 
 Dit werd allemaal onderzocht en uitgewerkt in [dit UX onderzoeksrapport](/reports%20and%20protocols/UX_Felix%20Vanhoutte%20.pdf). 
-Om dit rapport samen te vatten stellen we dat een ronde vorm de voorkeur had tegenover scherpere vormen, dat zachte kleuren zoals blauw, beige en pastel de mentale belasting verminderen en dat te felle kleuren of contrasten zouden botsen met het doel dat vooropgesteld was. Verder bleek het ook dat het nodig was om scherpe geluiden te vermijden om irritatie te vermijden en dat warme materialen (textiel, silicone) menselijk en betrouwbaarder aanvoelen. 
+Om dit rapport samen te vatten stellen we dat een ronde vorm de voorkeur had tegenover scherpere vormen, dat zachte kleuren zoals blauw, beige en pastel, de mentale belasting verminderen en dat te felle kleuren of contrasten zouden botsen met het doel dat vooropgesteld was. Verder bleek het ook dat het nodig was om  warme materialen (textiel, silicone) te gebruiken omdat deze menselijk en betrouwbaarder aanvoelen. 
 
 *Service Design:* 
 Om een compleet beeld te schetsen van de baan die een gebruiker aflegt met het ontwerp, werd een customer journey opgesteld. Deze werd in drie fases opgedeeld, namelijk: 
 * Fase 1 : voor het gebruik
-In deze fase merken Ouder dat hun kind het lastig heeft met volledige nachten door te slapen. Misschien doen ze hier onderzoek, vragen ze advies of maken ze gebruik van andere bestaande producten.
+In deze fase merken ouders dat hun kind het lastig heeft met volledige nachten door te slapen. Misschien doen ze hier onderzoek, vragen ze advies of maken ze gebruik van andere bestaande producten.
 * Fase 2 : tijdens het gebruik
 In plaats van de ouders die tussenkomen bij de verstoorde nachtrust van het kind, detecteert het product geluidssignalen en biedt het ondersteuning. Door het ontwerp van het product ervaren de ouders zo weinig mogelijk cognitieve belasting. Het product heeft echter slechts een bufferwerking en neemt dus niet de ouderrol over.
 * Fase 3 : Na het gebruik
